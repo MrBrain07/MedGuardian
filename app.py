@@ -20,6 +20,21 @@ features = df.drop(columns=["Disease"]).columns.tolist()
 st.title("🧠 MedGuardian")
 st.markdown("### AI-Powered Early Disease Detection System")
 
+st.markdown("### 🩺 Symptom Reference Guide")
+st.markdown("""
+Here’s a quick reference for the symptoms you can select (0 = No, 1 = Yes):
+
+- **fever** → Patient has fever
+- **cough** → Persistent cough
+- **fatigue** → Feeling unusually tired
+- **headache** → Head pain or pressure
+- **nausea** → Feeling of wanting to vomit
+- **shortness_of_breath** → Difficulty breathing
+- **sore_throat** → Pain or irritation in the throat
+- **diarrhea** → Loose or watery stools
+- **chest_pain** → Discomfort or pain in the chest
+""")
+
 user_input = []
 st.markdown("### Fill the details:")
 
@@ -35,3 +50,4 @@ if st.button("🔍 Predict Disease"):
     pred = model.predict(input_df)
     disease = le.inverse_transform(pred)[0]
     st.success(f"🩺 Disease Predicted: **{disease}**")
+
