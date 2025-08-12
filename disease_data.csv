@@ -1,0 +1,4001 @@
+Age,Gender,Symptom_1,Symptom_2,Symptom_3,Symptom_4,Symptom_5,Disease
+52,1,0,2,4,0,5,Heart Disease
+93,1,1,1,0,4,3,Diabetes
+15,1,3,0,0,0,5,Asthma
+72,1,3,3,4,4,0,Malaria
+61,1,0,4,0,5,3,Asthma
+21,1,4,0,1,2,0,Pneumonia
+83,1,1,0,2,1,1,Hypertension
+87,1,0,2,2,2,1,Tuberculosis
+75,1,4,1,3,4,0,Heart Disease
+75,1,1,5,1,3,0,COVID-19
+88,1,3,5,0,3,4,COVID-19
+24,1,1,2,0,2,0,Malaria
+3,1,5,1,3,3,0,Flu
+22,1,2,2,3,4,5,Hypertension
+53,1,1,5,0,5,5,Flu
+2,0,2,0,0,1,1,Flu
+88,1,1,3,1,0,5,Heart Disease
+30,0,2,1,3,4,0,Asthma
+38,1,5,4,1,4,2,Malaria
+2,1,3,4,5,0,0,COVID-19
+64,0,4,0,0,0,4,Diabetes
+60,1,2,2,4,1,3,Flu
+21,0,5,2,4,1,1,Pneumonia
+33,0,2,5,5,1,5,Heart Disease
+76,0,3,0,0,3,2,Migraine
+58,1,2,5,3,4,3,Malaria
+22,1,5,5,4,5,2,Pneumonia
+89,1,5,4,3,0,1,Flu
+49,0,0,5,4,4,5,Asthma
+91,0,3,5,3,4,4,Heart Disease
+59,1,0,4,4,1,1,Tuberculosis
+42,1,3,2,3,1,2,Diabetes
+92,1,2,1,5,4,2,Heart Disease
+60,1,5,3,1,1,1,Pneumonia
+80,1,0,5,3,3,0,COVID-19
+15,0,2,1,1,0,1,Diabetes
+62,0,5,4,1,4,5,Tuberculosis
+62,0,3,1,0,0,5,Migraine
+47,1,5,3,5,3,4,Malaria
+62,0,2,1,1,1,1,Flu
+51,0,0,1,2,2,3,Hypertension
+55,0,0,1,1,3,5,Asthma
+64,0,5,1,3,2,5,Pneumonia
+3,0,2,0,1,0,5,Heart Disease
+51,1,1,5,3,4,0,COVID-19
+7,0,3,4,3,1,3,Asthma
+21,1,3,3,2,3,1,COVID-19
+73,1,2,4,1,1,0,Heart Disease
+39,1,1,0,1,2,5,Pneumonia
+18,1,0,0,4,2,3,Migraine
+4,1,4,0,4,5,3,Migraine
+89,0,4,5,0,4,0,Tuberculosis
+60,0,2,0,3,2,5,Flu
+14,1,1,1,2,4,0,Malaria
+9,1,1,4,4,5,2,Hypertension
+90,1,3,2,1,3,5,Malaria
+53,0,0,3,0,5,0,Tuberculosis
+2,1,5,0,2,4,1,Migraine
+84,0,1,4,5,2,5,COVID-19
+92,1,5,0,1,0,4,Tuberculosis
+60,0,4,5,1,4,5,Flu
+71,1,5,0,5,1,2,Pneumonia
+44,0,0,0,3,0,0,Flu
+8,1,0,0,3,4,4,Diabetes
+47,0,5,0,4,1,2,Flu
+35,0,2,3,4,5,1,Pneumonia
+78,0,1,4,1,0,5,Asthma
+81,0,2,5,1,4,4,Heart Disease
+36,0,5,0,4,3,0,Pneumonia
+50,0,1,0,5,5,0,Flu
+4,0,3,0,4,1,1,Migraine
+2,1,2,0,1,3,2,Tuberculosis
+6,1,2,1,2,2,4,Tuberculosis
+54,1,5,1,1,5,1,Tuberculosis
+4,1,4,2,2,5,2,Migraine
+54,1,5,0,2,4,3,COVID-19
+93,0,2,2,1,4,3,Heart Disease
+63,0,1,3,0,1,2,Pneumonia
+18,0,4,2,4,5,0,Flu
+90,0,5,4,3,4,0,COVID-19
+44,0,5,1,1,2,3,Flu
+34,1,2,1,2,4,0,Tuberculosis
+74,1,2,0,1,5,0,Flu
+62,1,3,0,4,0,2,Migraine
+14,1,5,3,5,3,5,Asthma
+95,0,2,5,2,5,2,Flu
+48,0,0,3,3,2,0,COVID-19
+15,0,4,4,3,5,2,Pneumonia
+72,1,0,0,3,2,4,Heart Disease
+78,0,4,0,5,5,3,Tuberculosis
+87,1,5,3,0,3,5,Diabetes
+62,0,3,3,2,3,4,Pneumonia
+40,0,2,3,5,2,4,Asthma
+85,1,2,1,2,5,0,Hypertension
+80,0,2,2,5,3,0,Flu
+82,0,5,2,5,1,4,Flu
+53,1,4,0,0,5,4,Heart Disease
+24,0,2,1,2,3,1,Heart Disease
+26,1,0,3,5,0,1,Tuberculosis
+89,0,2,0,0,0,3,Diabetes
+60,0,5,1,1,1,4,Diabetes
+41,0,3,4,4,3,2,Migraine
+29,0,0,5,5,0,5,Tuberculosis
+15,0,2,1,3,5,1,Tuberculosis
+45,0,2,0,0,4,0,Asthma
+65,0,1,2,0,3,4,Malaria
+89,0,4,3,5,1,2,Asthma
+71,1,0,5,0,3,5,Flu
+9,1,1,4,1,2,2,Hypertension
+88,0,3,5,0,2,2,Tuberculosis
+1,0,4,5,4,0,0,Diabetes
+8,1,0,1,4,2,1,Heart Disease
+88,0,2,0,3,1,2,Hypertension
+63,0,0,0,1,0,5,Diabetes
+11,1,2,5,4,1,1,Diabetes
+81,0,4,3,5,5,3,Hypertension
+8,0,2,0,2,1,0,Heart Disease
+35,1,3,5,2,2,1,Malaria
+35,0,5,0,2,5,1,Migraine
+33,0,2,3,5,2,2,Tuberculosis
+5,1,3,4,0,1,5,Asthma
+41,0,5,5,5,2,2,Flu
+28,1,4,2,0,2,5,Asthma
+7,0,4,2,2,2,0,Diabetes
+73,0,0,5,3,3,1,Tuberculosis
+72,1,3,1,3,5,4,Heart Disease
+12,1,3,4,0,5,5,Heart Disease
+34,0,1,1,2,5,5,Heart Disease
+33,1,1,2,5,1,2,Flu
+48,1,5,3,3,4,2,Flu
+23,0,5,5,0,1,3,Tuberculosis
+62,0,1,0,5,5,5,Malaria
+88,0,5,2,2,0,0,Diabetes
+37,1,2,4,1,2,1,Heart Disease
+99,1,1,2,2,2,1,Heart Disease
+44,1,3,4,2,4,1,Heart Disease
+86,1,2,4,5,0,5,Flu
+91,0,5,5,5,3,2,Malaria
+35,1,4,4,4,1,0,Asthma
+65,0,0,1,4,3,1,Malaria
+99,1,1,3,5,0,5,Flu
+47,0,4,2,5,4,4,Asthma
+78,0,5,3,1,0,3,Hypertension
+3,0,3,0,1,4,3,Tuberculosis
+1,1,0,2,2,3,1,Hypertension
+5,0,4,3,3,3,2,Tuberculosis
+90,0,0,3,1,0,3,Heart Disease
+14,1,1,5,2,0,3,Hypertension
+27,0,5,5,0,2,3,Flu
+9,1,3,0,4,4,3,Diabetes
+79,1,5,4,3,2,1,Asthma
+15,0,0,2,2,1,5,COVID-19
+90,0,4,5,5,1,0,Pneumonia
+42,1,1,2,0,0,0,Diabetes
+77,0,1,0,4,3,2,Hypertension
+51,1,5,5,0,1,5,Asthma
+63,1,4,5,2,1,4,Hypertension
+96,1,4,4,1,2,0,Hypertension
+52,0,0,2,4,2,4,Migraine
+96,1,5,2,0,1,0,COVID-19
+4,0,5,2,1,0,0,Migraine
+94,0,2,4,3,2,2,Migraine
+23,0,5,5,2,1,3,Malaria
+15,0,1,0,2,3,2,Flu
+43,1,0,2,4,2,0,Flu
+29,0,4,3,0,1,5,Migraine
+36,1,5,4,3,4,3,Heart Disease
+13,1,0,1,5,2,5,Malaria
+32,0,5,0,4,4,5,Hypertension
+71,1,4,3,5,2,5,COVID-19
+59,1,3,2,4,2,3,Migraine
+86,0,4,1,0,5,5,COVID-19
+28,1,4,0,3,5,3,Tuberculosis
+66,1,4,4,0,4,4,Malaria
+42,1,5,1,2,0,0,COVID-19
+45,1,2,5,5,1,1,Hypertension
+62,0,4,1,1,0,5,Tuberculosis
+57,1,1,3,2,0,2,Heart Disease
+6,1,1,0,2,5,4,Hypertension
+28,1,0,3,5,1,2,Pneumonia
+28,1,2,3,4,5,1,Flu
+44,0,0,2,2,5,3,Diabetes
+84,1,1,4,3,5,1,Asthma
+30,0,1,1,2,3,2,Diabetes
+62,1,3,0,3,0,1,Heart Disease
+75,0,4,5,0,0,0,Flu
+92,0,1,4,4,0,1,COVID-19
+89,0,5,4,3,3,5,Malaria
+62,0,5,0,2,2,0,Hypertension
+97,0,0,4,4,4,5,Flu
+1,1,0,2,4,4,1,Flu
+27,1,4,4,3,3,0,Migraine
+62,1,4,2,3,0,0,Asthma
+77,0,3,1,1,4,1,Hypertension
+3,1,2,1,1,3,4,Flu
+70,0,0,3,4,5,3,Migraine
+72,0,4,2,5,1,3,Tuberculosis
+27,1,0,5,5,4,3,Heart Disease
+9,1,4,1,1,1,0,Heart Disease
+62,0,1,4,2,0,3,Malaria
+37,0,0,0,0,4,0,Malaria
+97,1,1,0,4,3,4,Flu
+51,1,0,2,0,2,1,Flu
+44,1,2,5,1,4,1,Hypertension
+24,1,3,3,3,4,0,Asthma
+79,0,5,4,4,4,0,Flu
+59,1,5,2,1,4,4,Heart Disease
+32,1,5,0,2,3,3,COVID-19
+96,1,1,2,4,3,4,Flu
+88,0,4,4,4,2,1,Migraine
+52,0,5,5,5,3,1,Heart Disease
+62,0,2,5,3,3,5,Flu
+58,0,5,1,4,0,3,Diabetes
+52,1,0,4,3,0,1,Diabetes
+12,0,1,1,1,1,5,Diabetes
+39,1,0,1,2,2,0,Asthma
+2,1,0,1,2,0,1,Pneumonia
+3,1,0,2,4,2,2,Migraine
+56,1,3,0,4,2,3,Migraine
+81,0,3,5,1,4,5,Heart Disease
+59,0,4,2,5,5,3,COVID-19
+2,0,1,0,5,5,3,Heart Disease
+2,1,2,5,5,5,2,Hypertension
+92,1,2,4,3,2,4,Tuberculosis
+54,1,2,5,5,4,0,Diabetes
+87,1,0,5,2,1,3,COVID-19
+96,1,3,5,3,1,1,Tuberculosis
+97,0,1,3,1,5,0,Tuberculosis
+1,1,0,4,2,1,1,Tuberculosis
+19,0,3,2,2,4,0,Asthma
+2,1,3,2,0,5,0,Flu
+53,1,5,0,1,4,5,Tuberculosis
+44,0,5,2,1,1,1,Flu
+90,0,1,1,0,5,1,Malaria
+32,1,1,5,3,4,0,Diabetes
+70,1,1,2,5,3,3,Tuberculosis
+32,1,0,0,5,3,1,Migraine
+68,1,4,0,5,4,2,Flu
+55,0,1,1,5,4,2,Migraine
+75,1,5,0,5,0,0,Migraine
+56,0,4,3,0,0,4,Pneumonia
+17,1,0,5,1,2,0,Tuberculosis
+38,0,4,5,3,5,0,Malaria
+24,0,2,5,2,2,3,COVID-19
+69,1,4,4,5,2,3,Migraine
+98,0,1,2,0,1,5,Diabetes
+70,1,0,3,3,3,4,Hypertension
+86,0,1,2,3,1,4,Migraine
+11,1,5,3,3,5,4,Diabetes
+16,0,2,2,0,4,4,Heart Disease
+97,1,5,1,2,0,4,Diabetes
+73,1,1,0,5,5,0,Asthma
+59,0,1,0,3,4,0,COVID-19
+70,0,1,1,0,5,5,Heart Disease
+80,0,3,3,1,4,2,Pneumonia
+93,0,2,4,0,0,2,Diabetes
+3,1,1,3,0,4,5,Diabetes
+20,0,1,0,0,2,5,Flu
+59,1,5,4,3,5,1,Malaria
+36,0,5,2,0,0,0,COVID-19
+19,1,1,4,1,4,4,Asthma
+90,1,0,3,3,2,1,Migraine
+67,1,3,1,1,2,3,Asthma
+19,1,5,2,4,3,0,Pneumonia
+20,0,0,3,0,2,5,Tuberculosis
+96,0,3,2,5,1,2,Tuberculosis
+71,1,1,4,5,0,0,Asthma
+52,0,2,0,3,0,5,Pneumonia
+33,0,4,3,5,0,0,Migraine
+40,1,4,1,3,4,0,Heart Disease
+39,0,1,4,0,5,0,Malaria
+82,0,5,3,2,4,3,Malaria
+1,0,0,1,2,1,2,Asthma
+11,1,2,3,1,5,0,Malaria
+92,0,3,4,0,2,5,Asthma
+57,1,1,3,5,4,3,Tuberculosis
+89,0,2,2,0,5,1,Diabetes
+50,0,2,4,4,2,0,Heart Disease
+23,0,5,3,2,5,3,Malaria
+31,1,3,0,5,2,4,Hypertension
+94,1,2,3,2,5,1,Tuberculosis
+42,0,5,2,0,4,2,Pneumonia
+99,1,0,1,5,4,0,Hypertension
+7,0,5,1,1,1,0,Flu
+16,1,0,1,0,3,3,Malaria
+90,1,0,0,1,0,2,Asthma
+60,0,2,2,5,4,4,Malaria
+2,0,5,4,2,4,1,Migraine
+1,0,0,1,4,2,5,Migraine
+48,0,3,2,3,3,2,COVID-19
+12,1,2,3,2,4,0,Heart Disease
+69,1,5,0,1,5,3,Migraine
+37,1,5,2,0,3,4,Diabetes
+32,0,4,2,5,0,3,Asthma
+9,0,5,4,2,5,1,Malaria
+99,1,2,2,4,2,2,Heart Disease
+19,0,3,4,5,1,3,Heart Disease
+48,1,5,0,1,5,5,Flu
+80,1,4,0,5,0,5,Hypertension
+3,1,2,3,5,5,3,COVID-19
+20,1,0,4,0,3,0,Malaria
+24,1,1,4,3,3,3,COVID-19
+54,0,1,1,1,0,4,Heart Disease
+33,0,0,1,0,3,2,Migraine
+24,0,5,3,3,5,1,Tuberculosis
+75,1,1,0,0,1,5,COVID-19
+72,1,1,5,3,5,3,Diabetes
+36,1,0,1,3,1,4,Tuberculosis
+38,1,5,2,3,3,5,Asthma
+84,0,5,0,0,5,5,Tuberculosis
+99,0,0,5,5,3,1,Diabetes
+89,1,5,2,3,1,5,Hypertension
+99,1,5,4,5,3,4,Malaria
+25,1,2,0,1,4,5,COVID-19
+93,0,2,3,4,2,5,Migraine
+18,0,0,4,5,5,3,Hypertension
+82,0,3,4,4,4,3,Diabetes
+66,1,1,2,3,3,2,Hypertension
+54,1,2,4,4,3,0,COVID-19
+35,0,1,1,4,2,4,Hypertension
+80,1,4,0,3,3,0,Asthma
+61,0,0,1,5,2,0,Flu
+41,1,3,2,3,5,5,COVID-19
+33,0,4,5,1,1,1,Malaria
+68,1,4,2,2,2,1,Tuberculosis
+33,0,5,0,0,2,5,COVID-19
+14,0,4,4,3,4,4,Diabetes
+21,0,0,3,3,3,0,Hypertension
+48,0,2,2,4,5,2,COVID-19
+20,0,0,0,1,1,0,Hypertension
+8,0,2,3,4,0,1,Migraine
+7,1,4,4,5,2,0,Pneumonia
+67,1,4,5,3,0,3,Malaria
+17,1,3,2,3,3,3,Heart Disease
+33,0,2,5,4,2,2,Pneumonia
+48,0,4,0,3,0,4,COVID-19
+76,1,5,5,5,4,0,Diabetes
+59,0,1,5,2,0,3,Flu
+86,0,3,0,0,4,4,Malaria
+22,0,0,0,0,1,3,Heart Disease
+30,0,3,2,0,3,4,Migraine
+38,0,1,5,2,5,4,Flu
+51,1,2,3,3,0,3,Tuberculosis
+54,1,0,0,4,2,5,Hypertension
+8,1,0,4,1,3,1,Pneumonia
+27,1,2,5,3,0,4,Flu
+27,1,3,0,2,2,5,Hypertension
+98,0,4,3,5,2,0,Heart Disease
+21,0,3,2,2,5,5,Migraine
+30,0,1,5,0,5,3,Heart Disease
+97,0,5,0,3,2,5,Migraine
+28,1,4,0,0,5,1,Migraine
+64,1,3,4,1,2,3,Asthma
+97,1,5,4,5,0,2,Asthma
+69,0,5,5,0,1,0,Malaria
+61,1,2,0,1,5,2,Asthma
+48,0,1,5,2,4,5,Asthma
+19,1,1,0,0,4,4,Hypertension
+4,1,1,4,0,4,5,COVID-19
+35,0,4,3,4,1,4,Pneumonia
+64,0,0,1,5,2,2,Pneumonia
+49,1,4,1,5,2,2,Tuberculosis
+17,1,3,0,2,3,4,Diabetes
+44,0,5,4,4,4,1,Migraine
+92,1,5,2,1,4,0,Heart Disease
+30,1,0,2,1,2,3,Hypertension
+93,0,3,1,2,4,2,Migraine
+46,1,0,3,5,2,0,Diabetes
+6,0,5,1,1,2,3,Asthma
+99,1,4,0,2,5,5,Tuberculosis
+37,0,1,3,1,2,3,Asthma
+24,1,5,2,3,0,2,Migraine
+93,0,2,4,0,0,1,Tuberculosis
+46,1,1,4,5,0,1,Diabetes
+53,0,5,0,3,0,0,Heart Disease
+95,1,4,1,2,1,5,Heart Disease
+99,1,0,0,2,3,0,Malaria
+60,1,1,4,3,3,4,Flu
+97,1,4,2,0,2,1,Flu
+63,1,3,4,0,4,0,Heart Disease
+85,1,2,3,4,0,4,Flu
+32,1,1,5,1,3,5,Pneumonia
+87,1,0,4,4,3,3,COVID-19
+33,1,3,4,0,0,0,Diabetes
+67,0,4,5,3,1,4,COVID-19
+18,0,2,3,1,1,1,Flu
+25,1,0,1,3,3,3,Asthma
+95,0,4,4,4,1,0,Malaria
+54,1,4,0,2,5,1,Flu
+58,1,1,4,3,0,3,Hypertension
+67,0,1,0,4,3,2,Migraine
+46,1,0,3,4,0,1,Tuberculosis
+24,1,5,4,4,1,2,Asthma
+32,0,5,3,2,0,5,Migraine
+47,0,4,3,2,1,0,Pneumonia
+86,1,1,1,2,1,4,Malaria
+23,0,2,4,1,0,0,Hypertension
+66,0,2,0,2,1,1,Pneumonia
+27,1,4,0,2,5,2,Pneumonia
+2,0,1,4,2,2,2,Pneumonia
+90,0,0,5,3,0,3,Heart Disease
+17,1,0,1,2,2,0,Migraine
+33,0,0,1,1,0,0,Tuberculosis
+9,0,2,1,4,1,1,COVID-19
+43,1,1,0,3,1,2,Hypertension
+48,1,1,3,0,3,1,COVID-19
+39,1,2,5,2,5,1,Hypertension
+93,0,0,1,4,3,5,Diabetes
+42,1,0,0,4,2,2,Heart Disease
+26,1,4,0,3,1,1,Hypertension
+99,0,5,3,0,3,2,Flu
+50,1,3,4,5,1,1,Flu
+25,1,5,4,1,0,4,Diabetes
+24,1,1,1,5,3,1,Tuberculosis
+13,1,1,1,4,2,1,Malaria
+60,0,1,5,5,3,4,Heart Disease
+7,1,5,3,4,1,0,Pneumonia
+57,1,3,1,5,4,2,Migraine
+36,0,4,3,4,4,3,Asthma
+45,1,5,0,4,5,4,Heart Disease
+20,0,3,1,3,1,0,Diabetes
+65,0,0,0,0,0,1,Flu
+8,0,0,2,4,3,5,Migraine
+16,1,1,3,1,4,0,Hypertension
+14,0,2,2,1,0,4,Tuberculosis
+76,0,1,1,2,1,5,Tuberculosis
+87,0,2,0,4,0,1,Malaria
+15,1,3,1,4,1,0,Malaria
+92,1,0,2,4,5,3,Heart Disease
+98,1,5,1,5,3,2,Asthma
+66,1,2,5,4,0,2,Diabetes
+32,1,3,4,4,3,4,Migraine
+87,1,0,2,1,0,1,Flu
+63,1,5,1,0,1,1,Diabetes
+86,0,2,0,0,1,2,Diabetes
+51,0,1,1,2,0,0,COVID-19
+25,0,1,0,1,5,1,COVID-19
+58,0,1,4,4,1,3,Hypertension
+63,1,3,1,0,2,3,Asthma
+62,0,1,4,3,2,1,Hypertension
+22,0,4,2,3,3,1,Migraine
+58,0,0,0,3,2,2,Flu
+58,0,3,5,4,2,4,Flu
+86,1,5,2,4,5,2,Diabetes
+49,1,1,0,2,5,4,Malaria
+52,1,0,4,2,4,3,Flu
+42,0,2,3,2,4,4,Malaria
+70,1,1,1,5,5,2,Malaria
+15,0,0,4,3,4,1,Migraine
+54,1,4,0,4,5,4,Asthma
+60,1,2,0,3,4,2,Diabetes
+97,1,4,0,2,1,3,Flu
+8,1,5,0,4,5,5,Pneumonia
+53,1,0,1,1,3,4,Asthma
+60,0,4,2,0,3,3,COVID-19
+5,1,5,5,0,5,3,Pneumonia
+68,0,0,3,2,2,0,Migraine
+6,0,0,1,3,3,5,Asthma
+96,0,4,0,1,2,4,Migraine
+94,0,0,1,4,3,2,Asthma
+47,0,1,4,3,0,4,Malaria
+99,1,0,5,2,0,4,Diabetes
+55,1,3,0,3,5,5,Flu
+40,1,5,3,2,3,3,Heart Disease
+52,1,0,0,5,1,3,Tuberculosis
+16,0,3,5,0,2,3,Diabetes
+13,1,0,3,0,3,3,Malaria
+30,1,0,5,3,5,5,Malaria
+19,0,4,3,1,2,2,Heart Disease
+17,0,1,2,4,4,1,Malaria
+63,1,5,2,2,5,0,Pneumonia
+19,1,1,1,4,3,3,Malaria
+92,0,2,1,0,1,3,COVID-19
+58,1,4,3,1,4,0,Flu
+55,1,4,0,1,5,3,Diabetes
+90,1,1,4,4,3,1,Tuberculosis
+90,1,4,4,0,0,4,Pneumonia
+62,0,1,0,4,3,0,Pneumonia
+23,0,4,0,3,0,2,Tuberculosis
+9,0,0,2,1,0,0,Malaria
+12,1,1,4,1,5,1,Asthma
+1,1,1,3,3,3,5,Pneumonia
+58,1,3,5,0,3,2,Pneumonia
+1,1,4,1,1,0,4,Diabetes
+34,1,4,5,5,2,3,Heart Disease
+96,0,1,2,5,4,0,COVID-19
+48,1,0,4,5,1,2,Tuberculosis
+89,1,0,0,2,3,0,Malaria
+1,0,5,4,2,4,4,Migraine
+16,1,0,3,0,4,0,Migraine
+61,0,4,2,3,2,2,Asthma
+64,0,3,0,4,4,1,Pneumonia
+63,0,1,5,0,3,5,Pneumonia
+69,0,2,3,4,5,2,Heart Disease
+22,0,3,5,0,5,0,Pneumonia
+93,1,2,1,2,4,4,Migraine
+67,0,3,2,5,3,3,Tuberculosis
+76,0,0,3,3,3,3,Asthma
+26,1,4,3,2,0,4,Heart Disease
+16,1,2,5,3,2,0,COVID-19
+51,0,3,0,4,1,5,Migraine
+86,1,4,1,0,0,4,Hypertension
+57,1,2,5,1,1,0,Diabetes
+29,0,1,3,1,3,2,Heart Disease
+78,0,3,2,3,5,5,Heart Disease
+92,1,1,3,5,0,1,Migraine
+69,0,0,4,5,4,0,Asthma
+47,0,1,2,3,4,3,Diabetes
+94,1,1,2,2,1,3,Tuberculosis
+62,0,5,3,1,3,5,Tuberculosis
+69,0,3,0,2,5,1,Pneumonia
+76,0,0,2,4,1,0,Hypertension
+16,0,1,4,1,5,1,Flu
+90,0,4,5,4,2,2,Migraine
+90,1,2,0,0,5,1,Asthma
+48,1,1,0,2,4,2,Diabetes
+85,0,0,0,3,0,3,Asthma
+39,1,1,2,1,0,2,Flu
+33,0,2,0,2,0,0,Tuberculosis
+94,0,0,3,3,5,5,Asthma
+23,0,3,0,0,4,5,Tuberculosis
+10,0,0,4,1,5,0,Tuberculosis
+69,0,3,1,4,3,0,Hypertension
+34,1,0,4,0,4,0,Tuberculosis
+52,1,2,2,5,4,4,Malaria
+95,0,2,0,3,5,2,Tuberculosis
+10,1,0,0,1,5,0,Diabetes
+19,0,1,3,1,0,5,Diabetes
+58,1,2,5,0,4,1,Diabetes
+96,0,3,0,1,0,1,Heart Disease
+1,1,3,4,3,3,4,Migraine
+69,0,4,2,0,2,2,Migraine
+4,0,5,1,4,0,2,Migraine
+16,1,5,0,0,5,2,Malaria
+24,1,5,1,0,1,5,Diabetes
+80,0,3,0,4,2,5,Pneumonia
+2,1,4,2,5,3,4,Migraine
+92,0,5,5,3,5,2,Flu
+32,1,5,4,5,2,2,Flu
+91,1,0,2,5,5,0,Asthma
+84,0,0,1,5,0,2,Heart Disease
+24,1,0,0,2,5,5,Pneumonia
+12,1,1,1,5,3,0,Tuberculosis
+50,0,5,4,2,1,0,Diabetes
+35,1,1,2,4,0,2,Malaria
+33,0,4,1,3,0,1,Heart Disease
+33,0,3,1,5,3,3,Hypertension
+61,0,5,4,1,3,5,Hypertension
+51,0,3,0,4,2,1,COVID-19
+43,0,0,1,2,1,2,Tuberculosis
+12,1,5,4,3,5,2,Diabetes
+67,0,2,0,0,2,1,Heart Disease
+65,0,1,5,3,5,2,Hypertension
+33,1,1,0,3,5,5,COVID-19
+40,1,5,5,5,5,0,Malaria
+74,1,0,2,5,2,4,Diabetes
+43,0,1,4,2,0,2,Hypertension
+44,0,0,0,2,3,2,Migraine
+29,0,4,5,5,0,1,Flu
+13,1,3,5,5,1,0,COVID-19
+12,0,2,2,1,2,1,Malaria
+95,1,3,3,1,1,5,Hypertension
+46,0,3,4,4,3,1,Malaria
+2,1,4,3,5,3,2,Tuberculosis
+35,0,1,0,0,4,0,Asthma
+87,0,2,4,1,1,5,COVID-19
+81,0,1,2,2,0,2,Heart Disease
+90,1,5,0,3,1,5,Heart Disease
+8,1,3,4,4,2,2,Hypertension
+93,0,5,4,1,3,2,Migraine
+26,0,0,3,3,3,2,Migraine
+74,0,3,0,3,1,4,Tuberculosis
+90,1,1,2,1,1,3,Heart Disease
+34,0,3,2,0,5,0,COVID-19
+7,0,0,0,0,1,4,Flu
+68,0,4,0,4,5,3,Migraine
+58,0,5,5,0,2,5,Heart Disease
+75,1,5,1,4,2,3,Asthma
+29,1,1,3,2,0,3,COVID-19
+36,0,3,0,1,1,4,Flu
+89,0,1,0,3,0,0,Asthma
+21,1,4,1,4,4,1,Heart Disease
+36,1,3,1,0,2,3,Hypertension
+10,0,3,4,4,3,1,Pneumonia
+73,1,1,2,5,5,1,Pneumonia
+24,1,1,3,4,4,2,Tuberculosis
+64,0,0,4,0,3,1,Tuberculosis
+99,1,4,0,5,4,5,Flu
+49,1,0,1,5,0,5,Asthma
+99,0,5,5,0,0,2,Heart Disease
+36,0,3,2,5,5,0,Heart Disease
+82,1,1,4,1,2,0,Hypertension
+96,0,3,5,3,5,5,Malaria
+24,1,3,2,1,3,2,Tuberculosis
+23,0,2,5,1,4,0,Malaria
+62,1,5,1,0,5,3,Malaria
+96,0,2,4,0,1,0,Hypertension
+37,1,3,4,3,1,2,Malaria
+12,1,1,2,4,2,5,Malaria
+55,1,3,5,1,5,3,Hypertension
+13,0,5,1,5,3,1,Migraine
+23,0,2,0,3,1,1,Malaria
+89,1,1,4,1,2,1,Tuberculosis
+99,1,3,0,4,5,5,Hypertension
+30,0,4,1,5,2,2,COVID-19
+17,0,5,4,1,3,1,Malaria
+62,0,5,4,2,1,0,Migraine
+84,0,4,5,3,1,1,Tuberculosis
+89,0,3,0,0,1,4,Diabetes
+86,0,5,5,1,0,5,Tuberculosis
+13,1,1,3,5,1,4,Asthma
+59,0,3,0,5,4,1,COVID-19
+19,1,3,0,3,0,1,Pneumonia
+49,0,2,3,3,5,4,Heart Disease
+12,0,5,1,5,0,5,Asthma
+61,1,5,1,5,0,5,Hypertension
+19,1,4,4,5,0,1,Hypertension
+76,0,2,2,1,2,5,Heart Disease
+9,1,2,5,5,4,3,Flu
+71,1,5,2,0,3,5,Flu
+28,1,3,4,5,1,4,Heart Disease
+78,1,2,2,0,0,2,Hypertension
+95,0,4,0,1,3,4,Tuberculosis
+52,1,2,0,3,2,0,COVID-19
+83,0,4,3,0,3,3,Migraine
+16,0,2,3,1,0,2,Pneumonia
+69,0,4,4,5,5,1,COVID-19
+99,0,2,4,1,4,0,Heart Disease
+12,1,2,4,5,3,0,Hypertension
+25,1,1,0,1,0,3,Flu
+52,0,4,2,3,0,2,Hypertension
+85,0,4,5,0,1,0,Flu
+53,0,4,4,3,5,2,COVID-19
+23,0,0,4,2,1,2,Asthma
+16,1,2,0,5,5,5,Tuberculosis
+57,0,4,5,0,4,0,COVID-19
+39,1,5,0,3,1,2,Tuberculosis
+53,0,0,5,0,4,3,Malaria
+42,0,1,0,2,2,0,COVID-19
+58,0,4,2,4,2,3,Diabetes
+39,0,4,4,5,5,3,Diabetes
+14,1,0,1,5,5,2,Tuberculosis
+95,1,2,1,1,1,2,Malaria
+5,1,5,4,5,2,5,Tuberculosis
+35,0,1,4,5,3,5,Heart Disease
+87,0,4,4,3,3,0,Diabetes
+93,1,2,4,5,3,5,Hypertension
+75,1,5,5,5,2,1,Tuberculosis
+18,0,5,2,2,3,0,Tuberculosis
+76,0,1,1,2,4,3,Pneumonia
+9,1,3,3,0,0,5,Migraine
+74,0,5,1,0,5,5,Migraine
+58,0,3,1,5,1,5,Flu
+17,1,5,0,5,4,2,Malaria
+7,0,1,4,1,3,3,Diabetes
+46,1,0,4,0,0,5,Diabetes
+13,0,1,4,3,1,4,Migraine
+40,1,1,0,5,4,4,Tuberculosis
+42,0,0,2,3,1,3,Tuberculosis
+9,1,0,2,5,5,5,Diabetes
+50,1,2,3,3,2,1,Malaria
+27,1,5,2,4,3,1,Asthma
+66,1,2,2,3,4,0,Heart Disease
+5,0,0,4,0,4,0,Pneumonia
+29,0,3,5,5,0,5,Diabetes
+37,1,3,1,0,0,0,Flu
+38,0,1,2,3,0,2,Asthma
+83,0,4,2,2,1,1,Diabetes
+8,0,1,0,2,3,3,Pneumonia
+65,0,1,3,2,1,5,Migraine
+86,0,4,5,5,3,5,Diabetes
+17,1,5,0,1,4,4,Asthma
+71,1,0,4,4,1,1,Heart Disease
+89,1,3,1,3,1,1,Tuberculosis
+45,1,1,3,1,1,1,COVID-19
+4,0,4,0,2,2,0,Migraine
+36,0,2,2,3,5,2,Asthma
+70,1,1,2,1,3,3,Flu
+31,0,3,3,0,3,0,Flu
+19,0,0,2,2,1,2,Hypertension
+61,1,1,0,1,2,1,COVID-19
+54,0,1,0,5,1,2,Diabetes
+39,1,5,2,0,3,0,Hypertension
+91,1,4,2,2,5,1,Flu
+74,0,2,4,4,5,0,Diabetes
+90,0,2,1,2,4,3,Hypertension
+19,1,0,3,5,2,1,Diabetes
+39,1,3,0,4,5,2,Heart Disease
+67,0,0,3,4,2,0,COVID-19
+45,1,1,4,4,1,4,Migraine
+13,1,1,0,3,4,2,Migraine
+92,1,2,4,3,3,2,Migraine
+58,0,3,4,4,5,1,Flu
+20,1,4,5,0,5,5,Heart Disease
+92,0,3,2,4,0,2,Pneumonia
+72,1,1,5,1,3,0,COVID-19
+61,0,4,3,4,5,4,Asthma
+39,1,3,3,3,5,3,Malaria
+1,0,3,2,3,3,4,Pneumonia
+3,0,4,5,1,4,0,Asthma
+77,0,1,3,1,2,1,Migraine
+92,1,3,5,2,3,0,Asthma
+62,1,4,2,0,2,5,Diabetes
+63,1,5,0,0,4,5,Diabetes
+25,0,5,4,0,4,5,Asthma
+56,1,1,4,5,1,2,Tuberculosis
+33,0,4,5,3,0,1,Hypertension
+38,1,5,3,0,4,5,Malaria
+6,0,4,5,2,4,3,Flu
+58,0,3,5,2,2,3,Asthma
+44,0,1,1,0,4,0,COVID-19
+45,1,5,4,1,3,5,Tuberculosis
+32,1,3,2,2,1,2,Heart Disease
+45,1,0,5,1,1,3,Tuberculosis
+61,0,0,1,3,3,4,Malaria
+47,0,1,1,5,5,1,COVID-19
+21,1,5,4,2,4,4,Tuberculosis
+80,1,5,4,1,0,3,Flu
+85,1,5,4,0,4,3,Hypertension
+75,0,4,2,3,1,0,COVID-19
+36,0,3,1,4,0,0,Diabetes
+99,0,5,3,4,5,5,Flu
+19,0,3,2,0,2,1,Migraine
+20,0,1,0,3,2,5,Heart Disease
+57,1,5,5,3,4,0,Malaria
+18,0,1,4,3,4,2,Malaria
+47,0,5,1,3,0,1,Asthma
+49,0,0,5,4,0,2,Malaria
+14,0,2,2,1,5,5,Malaria
+15,0,1,0,3,4,0,Hypertension
+31,1,5,2,1,1,1,Heart Disease
+1,0,2,2,3,2,5,Hypertension
+54,0,1,3,2,5,3,Diabetes
+3,0,4,5,5,0,5,COVID-19
+16,1,5,3,2,1,4,Tuberculosis
+87,1,4,2,5,4,3,Heart Disease
+57,1,0,0,2,3,2,Tuberculosis
+75,0,5,1,3,0,3,Migraine
+12,1,0,1,1,5,5,Hypertension
+74,0,2,5,5,3,3,Flu
+96,0,1,4,4,1,4,Tuberculosis
+16,1,3,4,0,2,5,Flu
+72,0,0,1,5,1,4,Asthma
+76,0,3,2,5,2,3,Heart Disease
+24,0,3,2,4,1,4,Asthma
+28,1,1,3,3,0,3,COVID-19
+8,0,2,5,2,0,1,Asthma
+92,0,1,3,2,5,3,Flu
+36,1,5,4,1,3,0,Malaria
+90,0,0,1,3,1,4,Hypertension
+8,0,3,2,4,1,4,Asthma
+58,1,1,1,3,3,2,COVID-19
+60,0,1,0,3,4,2,Heart Disease
+50,0,1,1,2,5,0,Pneumonia
+28,0,0,0,4,1,4,COVID-19
+92,0,2,3,0,5,4,Hypertension
+41,0,1,3,5,1,2,Tuberculosis
+64,1,0,4,2,1,2,Diabetes
+27,1,3,1,4,4,3,Heart Disease
+63,1,5,1,1,0,5,Flu
+17,1,4,0,5,5,4,Diabetes
+73,0,0,3,5,3,4,COVID-19
+33,0,4,0,2,5,3,COVID-19
+84,0,1,3,1,4,4,COVID-19
+77,0,1,0,2,2,0,Diabetes
+92,0,0,3,3,2,2,Asthma
+29,1,4,0,4,4,2,Hypertension
+13,1,1,3,1,4,5,Heart Disease
+46,0,3,5,5,0,2,Hypertension
+35,0,2,0,2,5,1,Heart Disease
+6,0,2,1,5,5,0,Heart Disease
+82,1,1,4,1,2,0,Tuberculosis
+69,0,4,5,5,3,3,COVID-19
+47,0,5,5,2,5,1,Pneumonia
+25,0,1,0,2,1,4,Migraine
+66,1,5,4,0,1,5,Hypertension
+10,0,5,1,5,0,0,Tuberculosis
+56,1,4,5,0,0,1,COVID-19
+30,1,5,1,0,2,1,Malaria
+5,1,3,3,5,3,0,Malaria
+33,1,4,4,1,3,3,Asthma
+65,1,1,2,3,4,1,Diabetes
+18,1,3,3,2,0,2,Malaria
+96,0,0,4,4,5,1,Flu
+49,0,2,0,0,1,4,COVID-19
+11,0,1,0,1,5,0,Migraine
+85,1,1,1,5,1,4,Pneumonia
+26,0,1,5,1,2,3,COVID-19
+63,1,3,2,1,1,5,Malaria
+89,1,0,0,5,5,2,Migraine
+86,1,4,4,4,5,0,Pneumonia
+59,0,0,5,5,3,1,Asthma
+27,1,3,5,4,3,2,Asthma
+49,1,1,4,5,0,1,Tuberculosis
+77,0,2,5,0,5,3,Pneumonia
+33,0,1,0,4,2,5,Pneumonia
+98,1,4,4,0,1,0,Flu
+99,1,5,4,4,0,3,Pneumonia
+1,0,2,1,4,4,3,Malaria
+21,0,1,2,5,4,5,Flu
+55,0,2,1,4,1,3,Pneumonia
+6,1,5,2,0,1,3,Hypertension
+92,0,0,4,5,1,1,Tuberculosis
+81,0,3,5,2,3,4,Tuberculosis
+69,0,1,2,0,1,1,Hypertension
+95,1,4,4,2,4,5,Flu
+5,0,0,4,1,1,2,Asthma
+3,0,1,1,5,5,5,Hypertension
+53,0,0,1,1,2,5,COVID-19
+23,0,4,5,5,4,5,Diabetes
+53,0,1,3,5,2,5,Migraine
+37,1,5,0,0,4,3,Asthma
+74,1,5,3,2,0,5,Asthma
+74,1,4,3,5,5,2,Heart Disease
+83,0,2,5,2,4,5,Asthma
+17,1,4,2,5,5,1,Tuberculosis
+85,1,2,5,2,4,3,Asthma
+78,1,1,5,1,2,1,COVID-19
+73,0,2,4,0,2,3,Asthma
+1,0,1,4,5,4,1,Pneumonia
+51,1,1,4,3,4,0,Tuberculosis
+45,1,3,0,2,3,4,Hypertension
+77,0,1,2,2,5,4,Hypertension
+4,0,2,2,3,5,3,Malaria
+62,1,3,4,0,5,0,Diabetes
+65,0,3,3,2,5,2,Diabetes
+32,1,1,0,0,0,0,Pneumonia
+34,0,4,3,2,0,3,Diabetes
+92,1,4,1,4,1,0,Asthma
+95,1,5,2,2,4,2,Hypertension
+72,0,3,2,4,4,3,Asthma
+39,1,1,3,5,4,4,Heart Disease
+26,1,4,0,0,4,5,Malaria
+34,1,1,2,2,5,0,Hypertension
+54,0,1,3,1,5,4,Diabetes
+3,0,3,5,1,0,4,Migraine
+50,0,5,5,3,2,1,Asthma
+12,1,3,0,1,3,2,COVID-19
+65,0,0,3,4,5,5,Migraine
+54,1,4,5,1,5,0,COVID-19
+5,1,4,0,1,5,4,Heart Disease
+94,0,4,4,1,2,4,Diabetes
+94,0,2,0,2,2,2,Asthma
+57,1,1,1,3,0,5,Asthma
+17,1,3,4,0,5,5,COVID-19
+47,0,4,3,3,3,4,Asthma
+23,0,0,4,4,4,4,Heart Disease
+79,0,4,4,2,5,4,Tuberculosis
+85,1,5,3,5,0,4,Tuberculosis
+14,1,1,3,2,0,1,COVID-19
+66,1,1,5,1,3,1,Diabetes
+75,1,3,1,1,1,5,COVID-19
+51,1,2,3,4,0,3,Flu
+38,0,3,2,5,2,0,Asthma
+64,0,4,2,2,2,2,Asthma
+98,1,5,1,5,4,3,Tuberculosis
+38,1,0,0,0,0,1,Migraine
+50,0,3,0,3,4,1,COVID-19
+98,0,2,2,2,0,1,Diabetes
+82,0,3,3,5,3,3,Tuberculosis
+30,0,1,1,0,5,1,COVID-19
+79,1,4,0,0,0,3,Hypertension
+91,0,4,0,3,1,1,Diabetes
+51,1,4,4,0,2,4,Diabetes
+63,0,4,2,4,3,4,Pneumonia
+98,0,4,3,0,5,0,Migraine
+52,0,4,1,5,5,1,Heart Disease
+38,1,0,0,4,2,0,Diabetes
+97,1,2,4,0,5,3,Pneumonia
+88,0,4,2,1,4,0,Asthma
+79,1,2,2,0,3,1,COVID-19
+30,1,5,1,4,1,3,Malaria
+51,0,4,0,0,2,3,Malaria
+81,0,3,1,0,0,4,Migraine
+5,1,4,1,0,0,3,Asthma
+29,1,1,5,4,0,3,Diabetes
+4,1,0,4,0,3,0,Asthma
+10,0,3,2,3,1,5,Pneumonia
+56,0,3,5,5,5,3,Hypertension
+17,1,1,3,3,1,2,Heart Disease
+74,0,4,2,4,1,5,Flu
+17,0,0,2,1,2,4,Heart Disease
+84,1,3,4,3,3,4,Diabetes
+88,1,0,3,5,0,3,Asthma
+69,0,3,0,2,2,0,Heart Disease
+34,0,4,3,5,5,5,COVID-19
+6,1,5,0,3,1,4,Heart Disease
+53,0,3,3,2,0,4,Pneumonia
+66,0,5,1,4,3,2,Heart Disease
+77,1,3,3,5,4,3,COVID-19
+43,1,2,5,1,1,5,Flu
+75,0,4,5,2,1,4,Flu
+23,0,1,4,2,1,4,COVID-19
+55,0,5,0,5,1,4,Asthma
+80,1,1,2,3,0,4,Hypertension
+95,0,4,4,2,3,0,Diabetes
+75,0,1,5,4,2,1,Migraine
+16,1,4,5,5,0,2,Malaria
+8,1,1,0,4,3,0,Asthma
+4,0,5,5,5,2,2,Heart Disease
+4,1,2,5,4,1,4,Malaria
+56,1,1,0,3,3,2,Malaria
+25,0,5,5,5,1,3,COVID-19
+67,1,3,2,1,3,3,Tuberculosis
+96,1,4,1,3,5,1,Hypertension
+67,0,0,4,4,4,1,Hypertension
+27,1,0,2,5,1,2,Tuberculosis
+93,0,4,2,3,1,0,Diabetes
+32,0,2,1,4,1,0,Tuberculosis
+50,1,1,4,0,5,4,Migraine
+61,1,2,2,0,0,0,Migraine
+51,1,0,5,2,2,1,COVID-19
+19,0,5,1,1,1,0,Heart Disease
+21,1,4,4,0,1,4,Malaria
+5,0,4,3,4,0,3,Hypertension
+82,1,2,0,3,0,0,Hypertension
+92,1,5,5,5,4,0,Tuberculosis
+42,1,2,1,3,3,1,Tuberculosis
+61,0,1,0,2,1,2,Tuberculosis
+22,1,3,3,3,3,3,Diabetes
+21,1,5,2,0,0,2,Tuberculosis
+70,0,3,2,3,0,4,Heart Disease
+1,0,1,4,0,4,4,Malaria
+5,1,3,1,0,2,2,Asthma
+12,1,0,1,1,5,1,Asthma
+90,1,3,4,2,5,5,Heart Disease
+46,0,1,0,4,5,1,Pneumonia
+34,0,3,2,0,0,5,Migraine
+49,0,4,2,5,1,5,Asthma
+78,0,2,1,2,4,1,Diabetes
+90,1,0,1,4,2,5,Pneumonia
+45,0,4,4,5,5,5,Flu
+27,0,4,3,3,4,5,Diabetes
+73,0,1,0,2,0,3,Hypertension
+26,1,2,5,5,5,4,Asthma
+47,1,2,3,2,2,5,Migraine
+86,0,5,3,2,3,4,Tuberculosis
+56,0,0,1,3,2,4,Tuberculosis
+94,1,1,1,3,1,3,Malaria
+63,1,0,1,2,5,4,Migraine
+48,1,5,3,5,5,2,Hypertension
+61,1,3,0,1,3,0,COVID-19
+81,1,4,1,0,3,3,Asthma
+26,1,0,2,3,5,0,Malaria
+36,1,4,0,1,1,2,Migraine
+1,1,1,2,3,3,1,Flu
+8,0,3,0,2,0,1,Diabetes
+99,0,1,1,1,5,5,Hypertension
+52,0,3,5,5,2,1,Migraine
+79,0,3,4,5,2,3,Asthma
+47,0,4,1,4,1,1,Diabetes
+56,0,1,3,0,0,3,Migraine
+86,1,1,5,0,3,3,Heart Disease
+14,1,0,3,3,5,0,Malaria
+90,0,1,0,0,2,1,Migraine
+28,0,0,3,4,2,4,Heart Disease
+87,1,2,5,5,2,1,Diabetes
+78,1,2,5,1,2,1,Diabetes
+88,1,2,1,1,4,1,Diabetes
+2,0,5,2,5,1,5,COVID-19
+26,1,1,1,2,3,4,Migraine
+14,0,5,0,5,5,4,Heart Disease
+59,0,1,3,1,5,3,Tuberculosis
+56,1,0,2,3,5,4,Flu
+7,1,5,4,4,3,3,Flu
+3,0,5,5,5,1,0,Heart Disease
+23,1,5,2,2,0,3,Tuberculosis
+18,1,3,2,3,1,1,Hypertension
+38,0,0,1,5,2,2,COVID-19
+99,1,2,4,3,2,2,Heart Disease
+15,0,0,5,5,1,5,Asthma
+64,0,3,0,3,1,1,Malaria
+89,1,1,0,0,3,3,Malaria
+28,0,0,2,3,3,1,Pneumonia
+74,0,5,2,0,4,5,Flu
+39,1,2,3,1,5,4,Diabetes
+57,1,2,4,0,4,3,Asthma
+17,1,1,5,3,5,1,Hypertension
+86,0,0,2,4,2,4,Tuberculosis
+90,0,3,3,4,4,5,Hypertension
+44,1,1,4,1,4,4,Flu
+25,0,0,5,3,0,3,Diabetes
+17,1,4,0,0,1,5,Tuberculosis
+13,1,2,3,4,3,5,Heart Disease
+84,0,3,4,5,4,5,Pneumonia
+25,1,5,3,2,3,0,Tuberculosis
+68,0,3,2,3,5,5,Flu
+10,0,5,1,5,4,0,Hypertension
+67,1,3,0,5,5,4,Malaria
+18,0,2,2,3,4,0,Hypertension
+86,1,5,2,2,2,4,Hypertension
+34,0,0,4,4,0,0,Hypertension
+8,0,5,3,2,5,4,Pneumonia
+40,0,1,0,1,1,4,Flu
+83,1,0,2,0,1,5,Asthma
+42,0,1,4,0,2,5,Pneumonia
+41,1,3,0,5,2,4,Pneumonia
+6,0,0,3,4,1,5,Flu
+52,0,3,2,2,5,4,COVID-19
+26,1,4,5,5,1,5,Pneumonia
+64,1,3,2,3,0,2,Tuberculosis
+98,1,3,2,5,4,0,COVID-19
+59,1,1,0,3,0,4,Flu
+56,1,5,0,3,1,1,Migraine
+59,0,4,0,1,4,5,Migraine
+70,0,3,0,1,1,5,Asthma
+33,1,3,4,3,0,3,Heart Disease
+53,0,4,1,4,0,1,Pneumonia
+22,0,4,4,1,5,1,Hypertension
+21,0,0,2,1,5,2,Heart Disease
+70,1,1,4,0,0,0,Heart Disease
+70,0,4,3,5,4,2,COVID-19
+4,0,4,5,0,5,0,Tuberculosis
+94,0,2,0,4,5,4,Migraine
+75,1,5,3,1,3,2,Malaria
+62,0,4,5,1,3,3,Tuberculosis
+62,0,1,3,2,5,0,Migraine
+94,1,5,2,4,1,2,Malaria
+95,1,5,0,5,4,3,Pneumonia
+24,0,3,3,5,2,1,Diabetes
+55,0,3,2,5,5,5,Flu
+9,1,3,0,4,3,4,Diabetes
+3,1,3,1,2,4,4,Tuberculosis
+31,1,2,2,2,4,1,Asthma
+40,1,4,4,0,3,2,Tuberculosis
+36,1,3,0,4,4,5,COVID-19
+24,1,0,3,4,4,1,Malaria
+95,1,3,5,2,3,3,Malaria
+6,0,4,3,3,0,5,Pneumonia
+66,1,3,4,3,5,0,Diabetes
+84,1,2,4,0,1,2,Pneumonia
+92,0,1,3,3,2,5,Diabetes
+75,1,1,5,3,1,0,Malaria
+4,1,4,0,3,0,1,Tuberculosis
+79,0,1,2,1,0,4,Asthma
+6,1,1,4,0,4,5,Malaria
+94,0,0,4,2,1,5,Heart Disease
+51,0,4,4,3,0,0,Migraine
+62,0,4,5,5,1,0,Diabetes
+57,0,1,1,1,0,4,Diabetes
+66,1,1,5,3,2,0,COVID-19
+79,0,1,0,1,0,0,Pneumonia
+75,0,5,0,0,1,5,Flu
+8,1,2,0,5,4,4,Flu
+26,0,3,0,5,1,4,COVID-19
+51,0,2,0,5,3,5,Malaria
+45,0,4,3,3,1,1,Diabetes
+44,0,0,4,1,2,1,Hypertension
+5,1,3,5,5,5,5,Asthma
+70,0,0,3,4,2,0,Heart Disease
+26,1,5,5,4,2,2,Tuberculosis
+68,1,4,1,1,0,1,Tuberculosis
+19,0,5,2,3,2,1,Flu
+84,0,4,4,3,1,5,Flu
+97,0,0,1,0,5,5,COVID-19
+20,0,0,3,0,4,2,Diabetes
+12,1,0,2,5,2,2,Pneumonia
+47,1,4,1,2,1,4,Tuberculosis
+1,1,1,5,0,0,5,Diabetes
+90,0,0,2,3,0,1,Heart Disease
+14,1,5,5,2,4,3,Asthma
+64,0,3,1,0,4,3,Asthma
+38,0,4,3,1,1,0,Tuberculosis
+37,0,5,5,4,4,1,Hypertension
+11,0,2,2,0,4,3,COVID-19
+77,0,2,1,0,0,1,Tuberculosis
+3,1,3,5,1,1,5,Heart Disease
+33,1,1,3,3,5,1,Hypertension
+6,0,0,4,5,4,3,Migraine
+50,1,4,3,1,1,1,Malaria
+10,0,5,3,5,2,2,Flu
+5,0,0,4,0,0,0,Flu
+23,0,5,3,3,5,4,Hypertension
+10,1,4,4,2,0,3,Tuberculosis
+44,0,2,4,0,0,5,Flu
+2,0,0,5,1,3,4,Diabetes
+13,1,3,5,2,1,0,Flu
+40,1,1,4,4,2,2,Asthma
+2,1,3,1,2,4,2,Flu
+84,0,1,2,1,2,2,Migraine
+65,0,5,1,2,1,2,COVID-19
+63,1,0,4,1,0,3,Hypertension
+73,0,0,2,0,3,3,Diabetes
+17,1,1,5,3,1,1,Migraine
+9,1,2,2,4,5,5,Asthma
+75,0,4,4,3,5,1,Tuberculosis
+15,0,3,5,3,1,5,Malaria
+24,1,5,2,3,4,0,Asthma
+38,1,3,2,1,2,1,Hypertension
+35,1,3,1,1,2,0,Hypertension
+94,1,5,2,4,4,0,Hypertension
+95,0,5,4,1,3,0,Migraine
+49,1,0,0,5,0,2,Hypertension
+69,1,3,0,1,0,4,COVID-19
+62,1,4,0,1,5,4,COVID-19
+60,0,4,4,1,3,3,COVID-19
+50,0,1,0,0,4,0,Hypertension
+78,1,5,1,4,1,2,COVID-19
+75,0,0,4,5,2,1,Pneumonia
+9,0,4,5,1,1,1,Flu
+34,0,2,4,4,2,3,Flu
+76,1,0,4,2,1,3,Hypertension
+99,1,0,2,0,4,0,Heart Disease
+35,0,4,2,1,4,0,Migraine
+1,1,2,2,5,3,1,Malaria
+40,1,1,3,0,1,1,Migraine
+64,0,4,1,5,1,1,Pneumonia
+22,0,2,4,0,3,1,Migraine
+60,1,0,4,2,3,4,Pneumonia
+64,0,2,2,4,4,0,Pneumonia
+93,1,0,4,0,4,0,Migraine
+72,1,4,5,3,5,1,Malaria
+11,0,5,4,2,1,2,Pneumonia
+14,1,4,0,3,4,1,COVID-19
+60,1,3,5,2,4,5,Diabetes
+30,0,3,5,3,1,3,Diabetes
+35,0,3,4,3,3,5,Tuberculosis
+85,0,4,3,5,1,2,Hypertension
+37,1,1,2,0,0,3,Asthma
+5,0,4,1,0,1,2,COVID-19
+83,0,5,1,2,0,3,COVID-19
+78,0,2,0,4,1,1,Asthma
+26,0,4,1,5,0,1,Hypertension
+62,1,4,1,0,0,2,Diabetes
+4,1,0,2,0,1,3,Malaria
+89,0,0,2,5,5,4,Pneumonia
+42,1,0,3,1,4,2,Asthma
+89,0,4,0,5,2,2,Malaria
+18,0,1,1,0,4,5,Tuberculosis
+40,1,2,3,4,0,0,Pneumonia
+72,1,2,0,1,1,2,Migraine
+39,0,5,5,3,1,4,COVID-19
+14,0,1,1,5,1,1,Pneumonia
+32,1,1,1,3,1,3,Migraine
+51,0,2,2,1,5,0,Diabetes
+38,1,3,4,1,2,3,Migraine
+97,0,0,0,1,3,1,Migraine
+23,0,0,1,2,0,2,Heart Disease
+63,1,2,0,5,2,5,Asthma
+15,1,1,3,4,4,4,Pneumonia
+97,1,5,3,4,3,0,Asthma
+25,1,3,4,3,3,4,Pneumonia
+17,1,2,1,3,1,4,COVID-19
+97,1,0,2,3,2,4,Flu
+66,1,4,1,5,4,4,Asthma
+78,0,1,0,0,1,1,Asthma
+53,0,4,5,3,1,4,COVID-19
+51,0,5,3,1,5,5,Pneumonia
+39,1,2,0,3,0,4,COVID-19
+51,1,0,4,1,3,1,Malaria
+70,1,3,3,2,4,3,Migraine
+6,0,4,2,0,3,1,COVID-19
+67,1,3,3,0,2,5,Pneumonia
+7,1,5,5,5,0,5,Diabetes
+51,0,0,1,5,1,2,COVID-19
+72,1,4,5,4,0,1,Hypertension
+42,0,5,5,2,1,3,COVID-19
+64,0,3,1,5,0,2,Asthma
+15,1,3,3,1,1,2,Malaria
+29,1,4,4,2,3,0,Heart Disease
+33,1,0,1,0,3,4,COVID-19
+94,0,3,1,1,3,2,Flu
+27,0,2,2,2,3,2,Hypertension
+36,0,5,3,0,0,5,Diabetes
+29,1,4,1,5,1,3,COVID-19
+38,1,1,4,1,3,2,Migraine
+57,1,1,0,1,0,3,Migraine
+97,1,0,3,0,1,4,Hypertension
+27,0,2,2,1,0,5,Asthma
+55,0,3,5,5,5,0,Tuberculosis
+33,0,1,1,5,3,0,Asthma
+68,0,0,4,5,2,4,Hypertension
+86,1,5,3,0,0,4,Asthma
+66,1,2,4,3,3,5,Migraine
+10,1,2,4,3,4,5,Malaria
+5,0,0,5,1,1,1,Tuberculosis
+74,0,0,2,5,5,2,Migraine
+97,1,3,3,1,3,2,Diabetes
+38,1,0,1,0,4,2,Migraine
+13,0,3,2,1,0,3,Asthma
+31,1,3,1,4,0,1,Malaria
+47,0,4,0,3,4,2,Tuberculosis
+88,0,2,4,1,5,3,COVID-19
+52,0,5,0,1,4,3,Tuberculosis
+56,1,2,4,2,1,0,Migraine
+15,1,2,5,1,0,3,COVID-19
+29,0,4,2,4,4,4,Hypertension
+8,1,3,1,3,2,5,Pneumonia
+5,0,3,5,2,2,3,Migraine
+29,0,0,1,0,4,4,Flu
+47,0,4,2,0,1,4,Migraine
+68,0,0,3,3,0,0,Hypertension
+76,1,4,0,0,2,0,Tuberculosis
+45,0,0,0,4,4,3,Diabetes
+2,0,1,1,1,4,0,COVID-19
+27,1,2,1,3,3,0,Flu
+95,0,2,1,2,4,5,Pneumonia
+36,0,5,2,1,1,2,Hypertension
+36,1,3,3,0,2,3,Pneumonia
+26,1,5,0,0,3,3,Heart Disease
+43,1,1,5,2,2,3,Flu
+27,0,5,4,4,2,0,Flu
+69,1,2,2,2,1,5,Heart Disease
+20,1,3,0,3,4,0,Flu
+11,0,1,3,2,1,4,Migraine
+74,0,2,2,0,4,1,Heart Disease
+38,0,0,5,4,3,1,Tuberculosis
+6,0,4,0,4,1,1,Heart Disease
+72,0,1,2,5,1,2,Tuberculosis
+23,1,3,0,2,5,0,Diabetes
+47,1,5,0,3,0,4,Asthma
+90,1,5,3,0,1,4,Flu
+46,0,1,4,1,5,1,COVID-19
+12,0,3,3,4,0,5,COVID-19
+90,0,1,0,2,4,2,Asthma
+13,1,3,2,5,4,2,Malaria
+62,1,5,5,3,4,1,Migraine
+82,0,2,3,3,5,1,Flu
+89,1,0,4,0,5,0,Flu
+97,0,2,0,4,0,5,Asthma
+60,1,0,5,0,4,2,Tuberculosis
+43,1,5,3,5,2,4,Migraine
+76,1,2,3,1,1,1,Hypertension
+68,0,2,3,1,5,0,COVID-19
+5,1,1,3,1,5,4,Hypertension
+37,1,4,5,3,5,2,Heart Disease
+72,0,5,2,4,0,1,Tuberculosis
+92,1,3,4,0,4,5,Malaria
+31,0,5,4,0,2,1,Hypertension
+9,0,3,0,5,1,5,COVID-19
+51,0,3,1,1,1,0,COVID-19
+29,0,0,2,4,4,0,COVID-19
+78,0,3,0,4,2,2,Diabetes
+40,1,3,0,5,0,5,Flu
+41,0,1,3,2,5,1,Hypertension
+86,0,2,1,4,5,0,Heart Disease
+11,0,5,1,4,4,1,Hypertension
+23,0,5,2,0,1,2,Heart Disease
+1,1,3,1,5,5,5,COVID-19
+46,0,4,0,4,1,1,Migraine
+21,1,5,1,4,1,4,Heart Disease
+90,0,3,1,0,4,1,Tuberculosis
+36,1,0,4,4,3,3,Flu
+54,0,0,0,0,3,3,Flu
+87,0,0,5,2,3,2,Diabetes
+57,1,3,1,3,2,2,Pneumonia
+1,0,1,1,0,4,2,Hypertension
+63,1,4,3,0,1,4,Asthma
+54,0,3,1,4,5,5,Diabetes
+55,1,1,1,0,2,4,Asthma
+40,0,1,4,5,3,1,Pneumonia
+15,0,5,0,1,0,0,Flu
+21,1,3,2,1,2,5,Tuberculosis
+47,0,3,0,2,2,3,COVID-19
+73,0,1,3,0,4,3,COVID-19
+53,0,1,0,5,5,3,Heart Disease
+9,0,1,1,4,2,1,Diabetes
+74,0,5,3,4,5,1,Pneumonia
+52,0,3,0,3,4,2,Tuberculosis
+57,1,1,3,2,0,0,COVID-19
+26,1,0,2,5,1,2,Heart Disease
+41,1,3,0,5,1,1,Hypertension
+35,0,5,5,4,3,4,Flu
+63,1,0,1,3,3,2,Hypertension
+25,0,2,3,4,0,5,Flu
+90,0,3,5,3,1,1,Hypertension
+75,0,2,5,1,3,1,Heart Disease
+38,0,1,4,5,5,4,Tuberculosis
+2,1,5,3,1,2,4,Diabetes
+7,0,1,5,4,4,4,Flu
+82,1,5,4,2,3,0,Pneumonia
+91,0,4,5,0,0,5,Asthma
+34,1,1,1,2,1,1,Tuberculosis
+91,1,2,2,2,0,4,Tuberculosis
+17,1,5,4,0,4,0,Heart Disease
+43,1,1,2,5,4,3,Asthma
+59,1,3,3,1,0,5,Malaria
+51,1,5,1,1,3,3,Tuberculosis
+54,0,5,4,5,3,3,Pneumonia
+24,1,1,3,0,1,1,Tuberculosis
+25,0,4,5,3,5,0,Migraine
+71,1,1,0,2,1,0,Flu
+52,0,2,3,4,2,3,COVID-19
+70,1,2,2,1,5,5,Tuberculosis
+88,1,5,1,5,2,2,Tuberculosis
+33,0,5,1,4,1,3,Heart Disease
+49,1,1,3,0,5,1,Pneumonia
+29,1,2,5,4,5,3,Heart Disease
+63,1,2,0,4,2,5,Diabetes
+22,0,4,2,2,0,5,Flu
+26,1,3,3,0,3,3,Pneumonia
+28,0,4,3,4,5,0,Heart Disease
+85,1,0,1,1,5,3,Asthma
+49,1,4,2,0,2,4,Asthma
+71,0,1,0,1,5,4,Tuberculosis
+81,1,3,1,5,2,2,COVID-19
+84,1,1,3,5,0,1,Heart Disease
+49,0,0,1,3,5,1,Diabetes
+20,1,3,1,5,4,0,Heart Disease
+86,0,5,4,4,1,1,Heart Disease
+92,0,2,1,0,0,2,Migraine
+63,0,4,5,5,4,4,COVID-19
+61,1,1,1,1,0,0,Heart Disease
+49,0,0,5,4,3,5,Hypertension
+71,0,2,2,5,0,4,Hypertension
+1,1,4,1,2,0,2,Tuberculosis
+96,0,2,0,1,3,0,Diabetes
+13,1,4,5,1,5,3,COVID-19
+94,1,5,5,3,1,1,Diabetes
+87,1,3,3,2,4,2,Asthma
+51,1,2,2,3,2,0,Pneumonia
+56,0,2,1,5,1,4,COVID-19
+83,0,2,0,2,0,0,Migraine
+62,0,3,3,1,2,3,COVID-19
+32,0,0,2,3,3,2,Heart Disease
+30,0,4,5,4,1,0,Flu
+29,1,5,0,2,5,5,Migraine
+49,0,2,1,1,4,2,Tuberculosis
+45,0,3,4,0,1,2,Diabetes
+93,0,0,4,2,1,4,Hypertension
+30,1,4,2,2,5,1,Migraine
+16,1,3,0,5,2,5,Tuberculosis
+40,0,5,3,4,3,3,Asthma
+19,1,5,0,5,5,0,COVID-19
+18,0,4,5,2,3,1,COVID-19
+1,0,2,4,2,5,4,Hypertension
+78,1,5,2,4,1,1,Flu
+47,1,0,1,4,3,2,Diabetes
+66,0,3,0,3,2,2,Pneumonia
+92,0,0,4,1,2,3,COVID-19
+94,1,2,3,1,4,5,Pneumonia
+38,0,0,2,3,3,0,Diabetes
+51,1,0,1,1,4,0,Asthma
+63,0,1,0,2,5,4,Asthma
+4,1,0,3,3,0,3,Pneumonia
+1,0,4,1,3,2,0,Hypertension
+8,0,3,5,1,1,5,Pneumonia
+29,1,1,4,0,2,2,Heart Disease
+55,0,3,5,1,0,3,Tuberculosis
+3,0,3,4,5,1,1,Migraine
+32,1,2,3,0,3,3,Hypertension
+10,0,2,5,3,3,3,Tuberculosis
+74,0,1,4,0,2,5,COVID-19
+83,0,5,2,2,1,5,Diabetes
+34,1,2,3,4,5,0,Asthma
+97,1,2,4,0,1,4,Diabetes
+87,1,2,0,5,4,4,Hypertension
+55,0,3,4,4,0,5,Malaria
+92,0,1,5,2,3,0,Pneumonia
+32,0,3,2,5,2,0,Heart Disease
+50,0,4,1,4,1,0,Tuberculosis
+7,1,3,1,2,3,5,Tuberculosis
+93,0,4,4,4,2,4,Flu
+8,0,0,1,4,3,0,Asthma
+65,0,0,4,1,2,5,Tuberculosis
+57,1,4,2,5,3,1,Hypertension
+67,0,4,1,5,5,1,Migraine
+88,0,3,5,0,4,2,Malaria
+87,0,4,5,5,0,1,Tuberculosis
+59,0,1,0,5,3,3,Migraine
+72,0,0,4,4,0,2,Tuberculosis
+54,1,0,1,3,3,1,Hypertension
+67,0,5,5,1,1,3,Migraine
+51,0,4,2,0,4,1,COVID-19
+97,0,2,2,1,5,5,Tuberculosis
+92,0,2,0,0,4,3,COVID-19
+8,0,4,2,2,0,0,Flu
+34,0,1,2,4,1,5,Asthma
+35,0,2,1,5,2,3,Hypertension
+96,0,5,4,5,4,5,Heart Disease
+88,0,4,3,3,5,0,Hypertension
+78,0,1,2,1,1,3,Pneumonia
+32,1,1,2,1,1,3,Heart Disease
+46,1,3,3,1,0,5,Pneumonia
+16,1,1,2,5,5,1,Migraine
+68,1,2,1,1,1,3,Flu
+37,0,2,1,4,1,1,Migraine
+54,1,4,3,0,2,3,Tuberculosis
+85,1,4,5,5,0,4,Asthma
+14,0,1,2,4,0,2,Hypertension
+95,1,5,5,2,5,1,Diabetes
+55,1,0,2,4,1,1,Hypertension
+48,0,3,4,4,2,0,Hypertension
+82,0,0,2,2,3,4,Heart Disease
+7,0,1,1,4,4,0,Malaria
+74,1,1,0,0,0,4,Diabetes
+7,1,0,0,5,2,4,Tuberculosis
+33,0,3,0,3,5,5,Pneumonia
+23,0,0,0,2,2,5,COVID-19
+85,1,4,5,5,1,5,Pneumonia
+19,0,2,5,1,4,3,Asthma
+19,1,5,2,0,0,0,Flu
+36,0,4,5,3,3,2,Asthma
+29,0,2,2,0,1,4,Flu
+60,1,5,4,0,0,4,Hypertension
+82,0,5,2,1,5,1,Heart Disease
+2,0,5,0,3,0,3,Tuberculosis
+1,0,1,3,0,2,2,Malaria
+47,1,5,3,1,4,5,Asthma
+69,0,3,1,2,3,4,Heart Disease
+20,0,0,1,1,4,1,Pneumonia
+11,0,3,2,4,2,0,Malaria
+2,0,0,3,5,3,4,Migraine
+67,0,4,0,1,3,1,Hypertension
+87,0,4,5,1,1,0,Diabetes
+12,1,0,0,1,3,3,Diabetes
+20,1,3,0,0,0,5,COVID-19
+5,0,0,2,3,4,0,Hypertension
+37,1,5,2,1,5,4,COVID-19
+38,1,1,4,1,5,2,Diabetes
+94,0,4,0,4,4,0,Tuberculosis
+9,1,1,0,4,1,2,Pneumonia
+98,1,5,2,2,3,2,Tuberculosis
+53,1,5,2,2,2,0,Heart Disease
+44,1,4,4,4,0,3,Pneumonia
+99,1,4,4,3,1,0,Diabetes
+86,1,5,1,2,3,1,COVID-19
+24,1,2,3,5,5,5,Hypertension
+81,1,1,0,5,2,2,Hypertension
+74,0,1,0,3,3,5,Flu
+30,0,2,4,4,1,4,Malaria
+59,1,3,4,2,2,2,Migraine
+87,1,1,1,1,2,4,Diabetes
+96,0,0,3,4,2,1,Diabetes
+81,1,5,1,2,2,1,COVID-19
+81,1,5,3,3,3,5,Flu
+14,0,2,5,5,2,1,Asthma
+9,0,1,0,3,3,0,Malaria
+40,0,3,1,2,2,2,Tuberculosis
+66,1,1,4,3,2,4,Tuberculosis
+25,1,5,1,2,1,5,Asthma
+73,0,4,5,2,3,5,Flu
+22,0,0,1,3,5,1,Malaria
+4,1,2,0,0,3,1,Diabetes
+26,0,4,5,1,4,4,Hypertension
+58,1,3,4,4,5,2,Diabetes
+29,1,4,4,5,1,2,Tuberculosis
+98,0,4,2,1,3,5,Pneumonia
+87,0,3,5,4,1,4,COVID-19
+37,1,4,2,4,5,5,COVID-19
+75,0,2,2,5,1,3,Migraine
+70,0,5,0,1,1,2,Heart Disease
+18,0,1,1,5,0,4,Tuberculosis
+85,0,4,4,2,3,4,Flu
+42,1,2,4,5,1,5,COVID-19
+41,1,1,1,3,0,1,Pneumonia
+38,1,1,4,0,0,4,Diabetes
+34,1,4,1,0,2,5,Migraine
+17,0,2,5,0,2,0,Hypertension
+37,0,5,0,1,5,1,Tuberculosis
+25,1,4,0,1,3,1,Heart Disease
+76,1,3,0,2,2,2,Flu
+87,0,1,1,0,5,3,Migraine
+86,1,4,1,2,3,2,Hypertension
+85,1,1,3,0,5,0,Heart Disease
+27,0,2,4,1,0,5,Heart Disease
+57,1,0,4,3,0,1,Migraine
+31,0,4,3,3,3,1,Diabetes
+6,0,5,3,3,5,4,Flu
+91,1,4,0,5,5,3,Asthma
+40,0,1,3,3,2,3,Heart Disease
+98,1,2,1,4,2,4,COVID-19
+12,0,3,2,0,3,0,Asthma
+53,1,5,1,3,4,3,Pneumonia
+71,1,2,3,4,2,1,Migraine
+10,1,4,4,4,1,0,Heart Disease
+45,0,3,1,4,2,2,COVID-19
+17,0,2,4,2,4,2,Pneumonia
+26,1,0,1,2,5,0,Asthma
+85,0,5,4,4,0,1,Hypertension
+92,1,1,5,5,0,2,Tuberculosis
+62,1,2,1,3,5,5,Asthma
+46,0,2,4,0,0,1,Tuberculosis
+64,1,0,2,5,2,4,COVID-19
+2,0,4,0,1,0,3,Heart Disease
+54,1,5,1,2,4,0,Tuberculosis
+65,0,5,2,3,4,3,Migraine
+51,1,1,0,3,2,4,COVID-19
+53,1,2,1,1,5,2,Heart Disease
+36,0,3,2,1,1,5,COVID-19
+26,1,2,2,3,2,1,Asthma
+29,1,1,5,1,0,1,COVID-19
+21,0,2,2,3,2,4,Asthma
+11,1,0,5,5,4,0,Migraine
+40,0,2,3,1,2,3,Flu
+11,1,2,4,5,2,5,Migraine
+36,0,3,0,5,1,2,Pneumonia
+59,1,0,4,1,4,0,Asthma
+39,1,0,4,3,3,5,Heart Disease
+99,1,2,5,4,3,5,Malaria
+54,0,5,4,3,4,4,Flu
+98,0,3,2,0,3,4,Migraine
+55,0,2,5,1,0,1,Malaria
+24,0,2,4,2,3,2,Hypertension
+22,1,1,5,1,0,0,Malaria
+69,1,1,3,0,4,1,Pneumonia
+56,0,5,5,5,3,2,Pneumonia
+33,0,3,1,2,3,3,Migraine
+36,0,4,2,2,5,3,Malaria
+20,1,1,0,3,0,1,Tuberculosis
+83,0,4,1,4,0,0,Heart Disease
+99,0,0,1,3,2,2,Hypertension
+81,1,1,1,2,1,3,Asthma
+62,1,1,4,2,3,3,Diabetes
+98,0,3,5,4,5,0,Tuberculosis
+73,1,5,5,1,1,1,Hypertension
+26,0,4,4,4,5,4,Hypertension
+66,1,1,2,5,1,5,Diabetes
+73,0,1,4,3,3,2,Pneumonia
+73,0,3,4,1,5,3,Hypertension
+40,0,3,4,3,0,5,Tuberculosis
+17,0,5,2,4,2,5,Migraine
+1,1,4,2,1,5,4,COVID-19
+89,1,0,3,4,4,5,COVID-19
+61,1,5,3,5,3,0,COVID-19
+43,1,0,3,0,3,1,Tuberculosis
+42,0,2,3,2,4,2,Heart Disease
+25,0,1,5,1,1,0,Asthma
+39,1,4,1,2,2,1,Diabetes
+35,1,5,1,0,1,0,Flu
+3,1,1,3,1,4,3,Pneumonia
+44,1,4,3,2,4,3,COVID-19
+51,1,4,0,2,2,4,Malaria
+94,0,4,1,1,4,0,Pneumonia
+98,0,1,0,2,4,5,Tuberculosis
+12,0,5,0,2,5,3,Heart Disease
+19,1,3,4,1,2,1,Heart Disease
+44,1,1,5,2,3,4,COVID-19
+59,1,4,2,2,1,5,Malaria
+49,1,5,1,3,3,2,Flu
+61,0,2,3,5,3,0,COVID-19
+17,0,0,3,3,5,3,Diabetes
+74,1,4,2,0,1,5,Pneumonia
+57,0,2,1,3,3,1,Migraine
+55,0,3,3,3,2,0,Pneumonia
+47,1,4,3,0,1,1,Malaria
+12,1,2,4,2,0,4,COVID-19
+62,1,4,0,2,5,3,Diabetes
+80,1,1,3,3,3,3,Malaria
+88,1,5,5,0,4,4,Asthma
+83,1,2,1,2,1,1,Malaria
+8,0,5,5,4,0,0,Tuberculosis
+95,0,1,2,1,4,1,Malaria
+21,1,1,4,1,0,0,Flu
+81,0,5,1,5,3,5,COVID-19
+87,1,2,4,1,4,4,Tuberculosis
+80,1,5,0,3,3,2,Malaria
+70,1,5,3,1,4,0,Tuberculosis
+72,1,0,1,1,1,3,Diabetes
+25,0,2,2,4,2,5,Migraine
+82,1,0,0,2,2,3,Tuberculosis
+89,0,4,0,4,0,5,Pneumonia
+12,1,5,4,3,5,3,Asthma
+15,1,4,0,1,4,1,Heart Disease
+59,1,2,1,2,3,1,Asthma
+26,0,5,4,5,5,1,Malaria
+26,1,4,0,5,1,5,Migraine
+47,1,3,2,1,1,5,Asthma
+32,1,1,5,1,1,3,Heart Disease
+10,0,5,1,5,2,0,Flu
+16,0,1,2,5,3,5,Flu
+71,0,0,2,3,1,3,Migraine
+17,1,4,4,1,1,0,Heart Disease
+23,0,0,3,5,0,1,Heart Disease
+26,1,5,4,0,4,5,Diabetes
+85,0,1,1,5,4,2,Hypertension
+86,0,1,1,2,4,1,Tuberculosis
+7,1,4,4,2,5,4,Migraine
+14,0,5,3,0,0,0,COVID-19
+79,1,3,4,3,2,2,Diabetes
+7,1,3,1,1,5,1,Flu
+9,0,4,3,1,0,5,Diabetes
+48,1,5,1,5,1,2,Malaria
+72,1,4,3,2,3,3,Tuberculosis
+59,0,5,3,3,5,0,COVID-19
+87,0,0,4,3,5,4,Migraine
+93,1,4,4,3,1,3,Malaria
+82,0,5,4,5,1,2,Hypertension
+95,1,3,3,1,3,1,COVID-19
+94,1,5,3,3,4,0,Heart Disease
+39,0,5,1,5,5,5,COVID-19
+99,0,4,2,5,0,4,Diabetes
+18,0,0,4,0,2,1,Pneumonia
+59,0,0,5,4,1,4,Malaria
+17,1,0,1,3,1,5,Diabetes
+14,1,0,1,4,2,0,Heart Disease
+31,0,2,0,1,0,2,Flu
+24,0,4,4,5,1,4,Diabetes
+99,1,1,1,3,2,0,COVID-19
+60,1,4,0,2,1,4,Hypertension
+45,1,2,5,1,4,1,COVID-19
+98,1,0,5,0,4,4,COVID-19
+3,0,2,4,0,1,1,Malaria
+37,1,3,3,4,1,1,Migraine
+43,1,3,0,5,4,0,Tuberculosis
+40,0,4,3,4,1,3,COVID-19
+90,1,4,5,2,0,5,COVID-19
+55,1,1,5,2,0,4,Tuberculosis
+87,0,1,2,0,3,2,Hypertension
+39,0,3,2,3,0,1,Malaria
+15,0,0,2,0,5,3,Flu
+4,1,2,2,0,5,1,Heart Disease
+93,1,1,1,2,5,3,Heart Disease
+86,0,5,2,4,1,3,Diabetes
+25,0,1,1,2,1,2,Malaria
+13,1,0,1,5,2,3,Pneumonia
+82,0,0,4,2,5,2,Flu
+33,0,4,1,2,5,0,Heart Disease
+16,0,2,1,0,0,1,Pneumonia
+42,1,0,2,3,4,2,Migraine
+66,1,1,1,0,4,5,Pneumonia
+55,1,1,3,1,3,1,Pneumonia
+99,1,3,2,2,2,5,Flu
+42,1,0,0,2,4,4,Migraine
+34,1,5,2,1,3,5,Pneumonia
+30,0,4,1,2,0,0,Tuberculosis
+13,1,2,3,2,2,4,Asthma
+13,1,5,2,5,2,4,COVID-19
+18,0,4,3,2,5,3,Hypertension
+32,1,1,0,1,1,5,COVID-19
+96,1,5,5,0,5,3,Diabetes
+99,0,4,0,2,0,5,Pneumonia
+39,0,1,5,3,5,4,Heart Disease
+46,0,1,4,1,2,3,Malaria
+29,1,1,5,4,5,1,Diabetes
+62,0,1,4,5,3,5,Flu
+93,1,1,2,1,5,5,Malaria
+62,1,3,4,0,4,3,Malaria
+57,1,5,3,1,0,5,Flu
+16,1,4,4,4,0,4,Tuberculosis
+56,0,3,3,5,2,3,COVID-19
+10,0,3,5,3,5,3,Diabetes
+30,1,0,5,4,2,2,COVID-19
+25,0,0,5,1,2,2,Migraine
+84,1,0,4,4,3,4,Heart Disease
+5,1,2,5,1,1,1,Diabetes
+65,1,0,4,3,2,5,Flu
+94,0,4,4,3,1,0,Pneumonia
+49,1,3,1,0,1,5,Diabetes
+3,1,4,1,3,0,0,Diabetes
+45,0,5,4,2,4,4,Asthma
+14,0,0,3,4,4,1,Flu
+30,0,2,2,4,5,1,Flu
+68,0,5,0,1,3,1,COVID-19
+18,1,2,1,3,3,2,Heart Disease
+62,0,5,4,0,4,4,Flu
+37,1,3,0,0,5,0,Hypertension
+25,0,4,1,0,4,1,Flu
+48,0,1,2,5,5,4,Hypertension
+65,0,4,3,2,5,5,Pneumonia
+53,0,0,4,3,5,0,Heart Disease
+79,0,1,2,0,5,2,Tuberculosis
+73,0,2,1,2,0,3,Diabetes
+15,1,3,4,4,0,0,Heart Disease
+49,0,3,0,1,4,5,COVID-19
+88,0,2,5,3,5,0,Diabetes
+68,0,0,3,3,2,0,Hypertension
+12,0,2,1,5,5,3,Malaria
+59,1,5,3,4,2,1,Heart Disease
+37,0,0,4,3,0,5,COVID-19
+61,0,1,5,5,5,3,Hypertension
+43,0,2,2,5,1,0,COVID-19
+70,0,0,3,5,4,5,COVID-19
+39,1,1,0,3,5,2,COVID-19
+56,0,2,1,3,3,0,Heart Disease
+63,1,3,0,3,2,2,Malaria
+46,0,2,3,2,5,4,Hypertension
+88,1,4,5,5,1,2,Tuberculosis
+11,1,2,2,2,2,0,Hypertension
+62,0,4,2,1,1,3,Flu
+77,0,1,0,3,4,0,Diabetes
+98,1,2,4,4,4,0,Malaria
+25,1,1,4,0,4,4,Heart Disease
+71,0,1,5,1,0,1,Asthma
+52,1,0,2,0,1,0,Tuberculosis
+4,1,1,0,0,5,4,Diabetes
+59,1,1,0,3,3,3,Asthma
+72,0,2,0,4,3,4,Flu
+20,1,2,3,0,4,4,Hypertension
+93,1,3,5,5,3,2,Hypertension
+63,1,0,4,0,2,1,Malaria
+54,0,1,4,1,1,1,Heart Disease
+74,0,0,3,4,1,5,Heart Disease
+98,1,4,1,4,1,3,Diabetes
+57,0,1,3,0,2,5,Migraine
+90,1,0,5,4,5,4,Flu
+41,0,3,0,1,0,3,Migraine
+3,0,3,3,1,2,3,COVID-19
+6,1,1,0,1,1,1,Tuberculosis
+5,0,4,5,5,1,1,Hypertension
+5,0,3,5,3,1,1,Diabetes
+54,0,3,2,0,5,0,Migraine
+47,1,4,0,4,3,4,Malaria
+87,0,0,4,1,0,3,Pneumonia
+49,0,3,3,0,2,4,Heart Disease
+9,1,2,5,0,1,3,Hypertension
+99,0,5,0,3,4,3,Diabetes
+20,0,5,1,5,0,5,Asthma
+61,0,3,2,4,4,3,Tuberculosis
+35,0,0,1,5,0,3,COVID-19
+50,0,0,5,4,1,2,Malaria
+82,1,1,1,1,0,2,Flu
+62,1,2,1,1,0,5,Malaria
+17,0,0,2,0,1,0,COVID-19
+88,0,4,2,4,5,1,Pneumonia
+3,0,2,2,4,4,3,Flu
+32,1,5,2,5,5,4,Flu
+99,1,2,1,1,4,2,Diabetes
+13,0,4,4,2,3,1,Malaria
+89,0,3,4,0,4,0,Hypertension
+73,1,4,2,4,4,1,COVID-19
+68,0,4,3,3,0,3,Pneumonia
+14,1,3,0,3,3,1,Pneumonia
+98,1,3,5,2,1,3,Heart Disease
+11,0,3,3,1,1,5,Tuberculosis
+56,1,3,5,1,2,2,Diabetes
+67,0,3,3,1,3,2,Diabetes
+92,0,4,3,5,0,3,Asthma
+29,0,1,4,3,2,4,Diabetes
+9,0,1,0,1,2,2,Flu
+67,0,0,3,3,1,4,Asthma
+25,0,1,2,2,4,3,Pneumonia
+98,1,5,5,0,0,5,Hypertension
+76,1,1,4,5,3,3,Migraine
+42,1,4,5,4,2,5,Tuberculosis
+9,1,3,2,2,0,2,Tuberculosis
+79,0,3,2,3,1,4,Hypertension
+40,1,4,3,2,2,3,Hypertension
+25,1,5,2,4,2,2,Migraine
+5,1,1,0,5,5,5,Heart Disease
+11,0,4,2,0,1,3,Malaria
+59,1,0,3,4,5,5,Tuberculosis
+98,0,3,5,5,1,1,Heart Disease
+88,1,2,2,3,1,5,Diabetes
+79,0,0,4,4,5,1,Hypertension
+38,0,5,4,2,0,2,Asthma
+72,1,0,4,1,0,3,Heart Disease
+5,0,4,5,2,0,2,Heart Disease
+48,0,1,1,3,4,0,Tuberculosis
+90,1,3,4,0,2,5,Pneumonia
+18,1,5,4,4,0,2,Asthma
+70,1,5,1,0,4,2,Malaria
+37,0,2,5,3,2,1,Diabetes
+60,0,0,4,4,0,5,Migraine
+48,0,2,3,5,1,1,COVID-19
+77,1,1,5,5,3,3,Pneumonia
+28,0,1,4,2,0,2,Tuberculosis
+69,0,2,4,2,3,5,Pneumonia
+77,0,3,1,3,0,2,Asthma
+81,0,1,3,5,1,3,Flu
+40,0,2,5,4,3,4,Malaria
+45,0,0,2,5,4,3,Diabetes
+96,0,2,0,2,1,1,Pneumonia
+62,1,2,3,3,3,1,Malaria
+93,1,4,2,5,3,2,COVID-19
+58,1,1,3,3,5,1,Diabetes
+67,0,3,2,5,5,5,COVID-19
+56,0,3,2,0,1,3,Heart Disease
+40,1,4,3,5,1,2,Pneumonia
+98,0,5,1,2,1,3,COVID-19
+40,1,3,3,4,2,3,Malaria
+91,0,2,3,2,4,2,Flu
+77,0,4,2,2,0,4,Migraine
+33,1,0,0,2,5,1,Hypertension
+6,1,1,2,3,3,0,Flu
+88,1,1,4,1,5,0,Tuberculosis
+19,1,1,3,1,0,0,Flu
+80,1,2,5,0,1,1,COVID-19
+40,0,0,3,2,5,4,Tuberculosis
+92,0,4,1,1,4,3,Flu
+97,0,4,5,0,4,2,Hypertension
+59,1,1,2,3,2,4,Malaria
+59,1,0,1,2,5,0,Migraine
+48,1,0,3,4,1,5,COVID-19
+41,1,0,2,3,3,1,Pneumonia
+13,1,3,2,0,2,1,Diabetes
+45,1,3,4,3,1,2,Asthma
+89,0,1,4,4,2,5,Pneumonia
+53,0,0,0,3,5,3,Heart Disease
+42,0,5,4,0,0,4,COVID-19
+63,0,0,5,4,5,5,Diabetes
+27,0,4,2,4,1,4,Malaria
+38,1,4,4,3,3,4,Heart Disease
+60,1,1,0,4,3,3,Asthma
+7,1,5,3,3,1,3,COVID-19
+5,1,0,5,2,2,3,Pneumonia
+45,1,5,4,4,4,2,Flu
+58,1,1,2,3,1,1,Pneumonia
+31,0,4,3,2,5,0,Pneumonia
+23,1,4,2,4,3,3,Asthma
+42,1,3,3,2,0,1,COVID-19
+10,1,1,5,5,3,3,COVID-19
+32,1,1,2,4,4,0,Tuberculosis
+53,0,0,4,5,3,5,Pneumonia
+30,0,0,4,0,4,3,Malaria
+39,1,3,0,0,1,1,Diabetes
+31,0,2,3,3,3,2,Diabetes
+82,0,5,0,1,2,5,Heart Disease
+2,1,2,1,5,5,5,Asthma
+78,1,2,4,5,2,5,Pneumonia
+77,1,1,3,0,5,0,Malaria
+93,1,5,5,5,3,1,Heart Disease
+12,1,1,0,1,3,4,COVID-19
+39,0,5,5,2,5,4,Diabetes
+66,1,4,5,2,0,4,Hypertension
+96,1,1,5,1,3,2,Tuberculosis
+13,1,1,0,5,0,3,Malaria
+46,0,1,1,5,0,3,Heart Disease
+27,1,3,0,5,5,3,Heart Disease
+17,1,1,2,3,0,2,Malaria
+95,1,0,4,4,0,4,Flu
+98,0,0,0,1,1,5,Hypertension
+60,1,5,0,1,2,3,COVID-19
+64,1,4,1,1,0,5,Diabetes
+88,1,3,2,1,2,5,Pneumonia
+35,0,5,0,1,0,2,Malaria
+70,1,0,4,5,2,2,Asthma
+83,1,3,4,3,3,1,Hypertension
+30,1,3,0,0,3,3,Tuberculosis
+71,0,4,5,5,2,4,Tuberculosis
+74,1,3,5,5,0,0,Asthma
+96,1,1,2,4,1,2,Hypertension
+98,1,3,4,0,2,5,Heart Disease
+63,0,4,5,1,4,1,Tuberculosis
+28,0,5,4,0,1,0,Heart Disease
+60,1,4,2,3,4,2,Flu
+79,0,4,2,2,2,1,Hypertension
+94,0,0,5,5,0,5,Malaria
+37,0,1,0,0,4,3,Pneumonia
+93,1,0,3,4,2,1,Diabetes
+22,1,5,1,3,1,2,Flu
+68,0,2,3,2,0,3,Heart Disease
+20,0,5,3,3,4,5,Hypertension
+96,0,1,4,1,2,4,Flu
+68,1,3,2,2,0,1,Heart Disease
+91,1,4,4,4,0,0,Pneumonia
+64,0,2,5,2,3,5,Pneumonia
+17,0,1,1,4,0,3,Asthma
+12,0,0,5,1,2,5,COVID-19
+22,0,4,0,4,1,3,Tuberculosis
+17,1,5,1,3,5,5,Pneumonia
+10,0,0,4,0,3,4,Migraine
+65,1,1,4,3,2,1,Pneumonia
+22,0,1,5,5,2,0,Flu
+90,0,5,4,3,2,4,Diabetes
+82,0,2,4,2,4,1,Hypertension
+50,0,5,3,1,4,0,Flu
+14,0,3,0,5,1,5,COVID-19
+64,1,0,3,5,2,0,Pneumonia
+47,0,2,4,5,4,2,Malaria
+29,0,4,2,0,4,0,Hypertension
+76,0,3,3,4,4,1,Flu
+36,1,2,4,2,1,4,Migraine
+99,1,0,4,1,1,4,Diabetes
+52,1,1,0,0,2,2,Tuberculosis
+76,1,4,5,3,3,1,Hypertension
+7,0,5,1,1,2,0,COVID-19
+29,0,0,3,5,4,2,Malaria
+11,0,3,3,1,5,5,Migraine
+33,1,3,3,1,4,3,Tuberculosis
+6,0,1,4,3,0,5,Heart Disease
+79,0,1,0,4,5,1,Diabetes
+32,1,4,4,2,5,2,Tuberculosis
+51,1,5,4,5,2,4,Pneumonia
+75,1,4,5,4,4,2,Asthma
+58,0,1,2,0,4,3,Malaria
+87,0,1,0,5,3,1,Migraine
+26,1,3,3,2,0,2,Tuberculosis
+98,0,1,1,0,2,5,Asthma
+46,1,2,3,3,1,0,Tuberculosis
+98,1,0,4,4,2,5,Flu
+29,0,1,0,5,5,1,Heart Disease
+4,1,4,0,1,2,2,Diabetes
+81,1,5,0,2,3,5,Heart Disease
+99,1,5,2,5,2,2,Flu
+13,0,5,3,1,3,5,Tuberculosis
+39,1,2,2,5,5,1,Hypertension
+15,1,4,5,0,3,4,Asthma
+29,1,2,1,1,4,5,Malaria
+29,1,1,5,1,1,0,COVID-19
+75,1,0,4,5,5,5,Asthma
+32,1,5,2,3,3,1,Heart Disease
+2,1,4,2,3,0,5,Asthma
+47,0,5,5,4,5,0,Pneumonia
+78,0,2,4,0,0,0,Tuberculosis
+84,1,3,0,3,1,1,Flu
+22,0,1,4,5,3,2,Asthma
+75,0,0,3,3,5,5,Asthma
+27,1,1,5,4,5,4,Flu
+67,0,3,4,2,1,0,Pneumonia
+81,1,0,0,4,4,0,Pneumonia
+56,1,3,4,1,0,5,COVID-19
+92,1,1,2,1,5,2,COVID-19
+93,1,2,1,3,2,5,Pneumonia
+21,1,1,2,3,0,1,Hypertension
+47,0,1,1,4,3,4,COVID-19
+80,1,1,4,4,1,5,Pneumonia
+59,0,4,3,5,0,0,Pneumonia
+84,1,3,4,0,2,0,Asthma
+6,1,3,0,5,2,1,COVID-19
+19,1,5,4,1,1,2,Tuberculosis
+57,0,3,1,5,1,5,Flu
+69,1,5,2,4,0,3,Flu
+3,1,4,3,5,3,2,Migraine
+1,1,2,4,2,4,0,Asthma
+58,1,5,4,0,2,5,Migraine
+38,0,1,2,4,1,0,Migraine
+15,1,2,3,3,4,4,Asthma
+34,0,4,5,5,4,2,Tuberculosis
+61,1,3,4,4,4,3,Hypertension
+35,0,5,4,3,3,4,Diabetes
+64,0,1,5,3,1,3,Hypertension
+25,1,0,1,1,2,4,COVID-19
+24,1,0,1,1,1,2,Pneumonia
+12,0,2,0,4,0,0,Heart Disease
+18,1,3,2,4,2,3,Malaria
+15,1,0,3,2,1,2,Asthma
+80,1,2,4,0,2,3,Hypertension
+27,0,4,4,0,0,2,Tuberculosis
+72,1,2,0,4,5,4,Hypertension
+60,1,2,4,1,2,2,COVID-19
+46,1,2,2,5,5,4,Pneumonia
+89,0,1,0,2,4,0,Migraine
+17,1,2,2,0,3,4,Flu
+93,0,5,0,4,0,1,Heart Disease
+53,1,2,4,1,2,0,Hypertension
+8,0,1,0,1,0,5,Tuberculosis
+79,1,1,1,1,4,5,Diabetes
+27,1,4,3,5,5,2,Hypertension
+46,0,3,4,3,3,2,Tuberculosis
+50,0,0,5,5,0,1,Migraine
+71,0,0,3,1,5,2,Tuberculosis
+3,1,2,4,4,4,0,Tuberculosis
+93,1,4,3,2,4,0,Pneumonia
+64,1,2,1,5,4,4,Pneumonia
+44,1,0,3,4,5,3,Hypertension
+53,0,1,0,1,2,2,Malaria
+24,1,3,3,2,1,1,Pneumonia
+60,1,4,4,0,0,5,Flu
+3,1,1,5,0,1,0,Flu
+20,1,3,5,4,4,0,Heart Disease
+46,1,4,2,2,1,0,Asthma
+15,1,4,3,4,5,3,Migraine
+25,1,0,5,2,4,3,Malaria
+94,0,1,3,2,4,2,Flu
+78,1,4,5,4,3,5,COVID-19
+71,1,5,3,2,3,1,Flu
+17,1,4,4,5,5,3,Tuberculosis
+84,1,3,3,1,5,4,Migraine
+9,0,0,4,2,1,3,Heart Disease
+38,0,2,4,5,0,0,Hypertension
+48,0,0,2,2,1,1,Flu
+60,0,2,5,5,5,2,Asthma
+63,0,1,0,4,0,3,Heart Disease
+86,0,1,4,0,1,0,Flu
+2,1,4,5,3,2,4,Malaria
+88,0,5,1,2,2,4,Malaria
+72,0,1,3,3,0,2,Heart Disease
+11,1,4,1,2,3,2,Hypertension
+64,0,0,3,4,0,3,COVID-19
+77,1,1,2,4,1,2,COVID-19
+81,1,0,4,5,4,5,Flu
+72,0,0,0,2,2,5,Flu
+21,1,5,4,4,4,0,Heart Disease
+18,0,1,3,4,2,0,Diabetes
+94,0,0,0,2,1,0,Tuberculosis
+64,1,5,4,5,2,5,Tuberculosis
+82,1,5,0,5,0,3,Asthma
+95,0,1,3,5,4,3,Flu
+38,1,5,2,5,5,2,Asthma
+32,1,1,2,0,4,3,Heart Disease
+11,0,1,4,2,1,0,Hypertension
+45,0,2,1,0,5,1,Migraine
+89,1,0,3,4,4,0,Migraine
+33,0,3,4,0,1,5,Flu
+41,0,1,4,5,3,1,Flu
+8,0,0,2,4,0,2,Diabetes
+11,0,5,0,0,2,4,Heart Disease
+86,0,4,3,0,2,3,Hypertension
+51,0,1,0,2,2,3,Pneumonia
+88,0,5,5,0,3,5,Heart Disease
+41,1,5,5,4,0,0,Pneumonia
+17,0,5,3,5,4,0,Malaria
+76,1,5,1,2,4,1,Tuberculosis
+46,1,5,5,0,0,3,Flu
+32,1,1,2,2,5,5,Diabetes
+79,0,3,1,3,0,2,Flu
+80,0,2,4,2,2,0,Migraine
+54,1,5,5,5,4,3,Flu
+86,0,5,2,3,0,4,Migraine
+92,1,2,4,3,4,5,Asthma
+20,0,1,1,2,0,1,Flu
+33,0,0,3,4,1,0,Heart Disease
+74,1,4,4,5,2,0,Pneumonia
+40,1,4,0,4,0,2,Heart Disease
+32,1,0,3,5,3,0,COVID-19
+97,0,1,3,5,0,5,Migraine
+2,1,4,1,4,1,3,Malaria
+97,0,2,1,1,3,3,COVID-19
+33,0,0,2,3,3,3,Asthma
+77,0,3,2,2,0,4,Heart Disease
+30,1,1,0,4,1,4,Malaria
+33,1,0,3,4,3,0,Pneumonia
+77,1,4,0,2,2,4,Hypertension
+26,0,1,0,3,5,4,Diabetes
+22,0,2,1,2,2,2,Flu
+66,1,1,0,5,4,4,Flu
+38,0,1,0,1,4,1,Hypertension
+90,0,2,4,5,1,1,Flu
+46,1,5,2,1,3,1,Heart Disease
+15,1,2,2,2,2,0,Hypertension
+98,1,1,3,5,2,3,COVID-19
+44,0,2,2,3,5,2,COVID-19
+49,0,5,5,5,1,0,Asthma
+75,0,0,3,4,3,3,Diabetes
+61,0,2,4,1,1,2,Tuberculosis
+67,0,2,2,1,0,2,Hypertension
+6,1,1,4,3,2,2,Tuberculosis
+9,0,0,2,1,1,1,Flu
+6,0,3,2,1,1,1,Hypertension
+73,0,3,4,3,5,1,Diabetes
+95,1,4,0,5,0,2,Asthma
+32,1,2,0,2,4,5,Pneumonia
+41,1,2,0,5,2,2,COVID-19
+76,0,0,5,4,5,1,Migraine
+8,1,5,0,4,1,2,Migraine
+72,1,3,2,1,2,1,COVID-19
+50,1,4,1,4,4,1,Flu
+92,0,0,4,2,1,1,Asthma
+62,1,2,1,1,0,5,Asthma
+84,0,3,5,4,2,3,Pneumonia
+62,0,4,1,0,5,2,Flu
+7,1,1,3,0,0,0,COVID-19
+75,0,3,0,0,4,1,Pneumonia
+84,1,4,5,0,4,5,Heart Disease
+80,0,0,2,5,2,0,Tuberculosis
+4,1,1,0,0,4,3,Migraine
+6,1,4,0,1,3,2,Malaria
+58,1,4,1,3,5,5,Migraine
+22,0,2,3,5,2,1,Flu
+26,1,5,0,3,3,1,Diabetes
+3,0,3,4,1,4,1,Migraine
+41,1,2,4,1,2,5,Hypertension
+60,0,1,0,2,3,0,Asthma
+14,0,5,1,5,4,3,Migraine
+75,1,4,1,3,1,2,Hypertension
+82,1,2,2,0,1,3,Tuberculosis
+12,1,5,5,1,0,1,Migraine
+87,1,3,5,0,1,3,Heart Disease
+12,1,1,5,3,3,0,Migraine
+13,0,0,3,5,5,4,Migraine
+25,1,2,1,4,1,4,Flu
+45,1,1,2,4,2,2,Malaria
+19,0,0,4,1,2,2,Heart Disease
+55,1,2,5,2,2,3,Migraine
+45,1,1,4,0,1,2,Migraine
+8,0,1,4,1,1,5,Migraine
+93,1,5,0,2,0,0,Hypertension
+53,1,2,3,0,5,1,Tuberculosis
+55,1,1,2,3,5,1,Diabetes
+32,0,4,3,4,4,3,Diabetes
+51,1,2,0,2,0,1,Diabetes
+44,0,1,2,0,3,3,COVID-19
+82,1,5,2,1,2,2,Diabetes
+70,0,0,1,0,1,2,Migraine
+18,1,0,3,1,4,5,Hypertension
+83,0,4,3,4,4,5,Migraine
+22,0,2,1,4,1,0,Migraine
+37,0,5,4,0,0,1,Asthma
+96,0,1,0,0,4,5,Flu
+56,0,1,3,1,5,0,Tuberculosis
+59,0,0,1,1,0,4,COVID-19
+3,1,5,2,2,1,5,Tuberculosis
+28,1,4,5,2,0,0,Diabetes
+74,0,0,1,2,5,3,Migraine
+35,0,0,5,0,2,3,Heart Disease
+61,0,4,4,5,1,0,Malaria
+93,0,2,0,5,5,2,Malaria
+54,1,1,5,5,1,4,Flu
+63,0,2,4,5,5,0,COVID-19
+79,1,5,5,2,5,5,Hypertension
+97,1,3,2,0,4,2,Flu
+7,0,3,2,5,4,0,Asthma
+76,0,3,2,4,4,1,Migraine
+49,1,4,2,3,2,5,Pneumonia
+94,1,0,1,4,2,5,COVID-19
+85,0,2,2,0,5,3,Migraine
+31,0,1,2,0,3,1,Heart Disease
+58,0,3,1,3,1,1,Tuberculosis
+61,1,2,2,1,4,5,Hypertension
+24,1,3,4,1,1,4,Malaria
+20,0,3,4,1,5,2,COVID-19
+37,1,1,3,2,0,3,COVID-19
+4,1,5,4,1,5,1,Tuberculosis
+92,0,5,0,2,2,3,Heart Disease
+20,0,5,0,2,3,5,Migraine
+60,1,4,0,1,0,2,Hypertension
+24,1,0,1,1,1,0,Tuberculosis
+50,0,4,4,3,2,1,Tuberculosis
+49,0,2,0,5,4,2,Tuberculosis
+51,0,4,3,3,0,3,COVID-19
+96,0,2,1,2,2,5,COVID-19
+36,0,2,3,3,1,2,COVID-19
+98,1,0,4,2,5,0,COVID-19
+66,1,1,2,0,1,2,Hypertension
+79,1,0,3,2,0,5,Heart Disease
+34,1,5,2,2,0,3,Pneumonia
+36,0,5,1,3,5,1,Hypertension
+6,0,4,3,5,0,1,Heart Disease
+39,0,2,3,0,3,4,Migraine
+42,1,3,5,4,4,3,Asthma
+58,1,3,1,4,2,4,Migraine
+12,1,2,1,5,5,4,Heart Disease
+3,0,0,0,4,1,5,Tuberculosis
+18,1,1,4,0,1,5,Pneumonia
+40,0,0,3,1,4,5,Malaria
+21,0,2,3,0,0,0,Flu
+15,0,2,1,3,0,3,COVID-19
+97,0,1,1,2,1,1,Diabetes
+99,0,4,4,2,4,3,Malaria
+26,0,4,1,3,1,5,Malaria
+8,1,1,2,3,0,0,Migraine
+94,0,4,2,2,5,3,COVID-19
+87,0,3,5,5,2,3,Asthma
+42,1,4,2,1,0,4,Heart Disease
+44,0,4,2,1,5,3,COVID-19
+14,1,4,4,1,2,4,Diabetes
+78,1,3,3,3,3,4,Diabetes
+2,1,4,2,2,4,2,Heart Disease
+37,0,5,5,5,5,5,Malaria
+69,0,3,1,2,3,0,COVID-19
+38,1,1,2,2,0,4,Diabetes
+41,0,0,5,5,4,3,Heart Disease
+62,0,1,4,0,5,4,Flu
+60,1,0,1,5,0,4,Flu
+14,1,1,5,0,4,4,Hypertension
+89,0,5,2,4,4,1,COVID-19
+84,1,0,3,0,0,1,Pneumonia
+2,1,0,1,1,0,1,Heart Disease
+70,1,2,1,1,5,1,Malaria
+17,0,0,3,5,4,2,Asthma
+89,0,0,1,1,5,4,Diabetes
+28,0,2,2,1,4,2,Tuberculosis
+66,1,4,1,4,5,3,COVID-19
+35,0,4,2,1,0,5,Diabetes
+5,1,2,3,3,0,0,Hypertension
+65,0,3,0,3,1,2,Heart Disease
+40,0,0,3,3,5,1,Malaria
+76,1,0,2,0,1,1,Diabetes
+56,0,2,4,5,1,3,Tuberculosis
+36,1,2,3,5,3,4,Asthma
+45,0,3,4,2,4,0,Heart Disease
+23,0,5,4,4,2,2,Heart Disease
+47,1,4,2,3,3,4,Pneumonia
+31,1,1,2,3,4,4,Hypertension
+11,1,5,0,1,2,5,Heart Disease
+10,0,4,5,3,1,5,Malaria
+67,0,0,1,1,2,2,Heart Disease
+14,0,5,3,1,0,2,Pneumonia
+80,1,2,2,2,0,2,Hypertension
+74,1,3,3,0,5,2,COVID-19
+93,1,4,5,1,4,1,Migraine
+10,0,3,5,1,3,4,COVID-19
+76,0,4,4,5,1,4,Flu
+94,1,5,1,2,4,1,Pneumonia
+1,0,0,0,1,1,4,Heart Disease
+5,1,1,3,4,0,2,Hypertension
+20,0,3,1,0,3,0,COVID-19
+8,0,3,0,4,3,5,COVID-19
+43,1,1,3,3,0,5,Flu
+76,0,3,1,0,2,4,COVID-19
+1,0,3,2,3,3,0,Pneumonia
+57,1,4,3,5,2,5,COVID-19
+64,1,4,1,1,1,0,Malaria
+84,0,1,5,2,3,1,Flu
+28,1,0,0,4,5,3,Hypertension
+37,0,5,1,3,0,4,Hypertension
+47,1,5,2,1,2,1,COVID-19
+76,0,3,3,4,5,1,Pneumonia
+37,0,0,3,4,1,0,Pneumonia
+49,1,1,3,5,1,4,Asthma
+44,0,1,2,5,3,1,Diabetes
+56,0,4,0,3,3,2,Malaria
+28,1,3,3,1,5,1,Asthma
+79,1,2,0,2,4,2,Diabetes
+6,0,1,1,3,4,3,Migraine
+61,1,3,5,4,3,2,Tuberculosis
+20,1,0,5,4,4,2,Diabetes
+78,0,4,0,0,0,0,Tuberculosis
+2,0,5,0,1,5,1,Flu
+73,1,0,5,0,0,3,COVID-19
+37,1,1,3,5,4,1,Diabetes
+20,1,1,4,2,3,2,Pneumonia
+26,0,0,4,3,0,5,Malaria
+29,0,1,2,4,1,2,Migraine
+1,0,3,5,1,3,1,Hypertension
+35,0,1,5,4,5,3,Asthma
+70,0,4,2,5,2,5,COVID-19
+59,0,3,4,0,2,3,Asthma
+69,0,2,1,0,3,0,Asthma
+33,1,1,3,3,4,2,Heart Disease
+51,1,1,3,1,0,2,Asthma
+78,0,4,1,5,0,0,Asthma
+12,0,4,1,1,3,1,Heart Disease
+20,0,5,4,3,1,2,Heart Disease
+53,1,0,2,5,5,1,Malaria
+88,0,0,1,5,4,3,Diabetes
+43,1,0,2,0,1,5,Diabetes
+98,1,4,0,0,3,5,Malaria
+89,1,0,3,0,3,5,Heart Disease
+50,1,0,4,4,1,4,Tuberculosis
+29,1,2,3,2,2,0,Hypertension
+57,0,0,4,0,3,5,Malaria
+39,0,1,0,2,5,2,Migraine
+95,1,5,3,2,4,0,Malaria
+56,0,4,0,1,1,3,Heart Disease
+43,1,3,4,3,2,3,Tuberculosis
+50,1,5,1,4,1,3,COVID-19
+23,0,2,3,2,2,3,Heart Disease
+44,0,4,0,4,2,4,Flu
+38,0,4,5,1,5,1,Flu
+84,0,1,3,0,4,1,Hypertension
+23,0,5,3,5,3,5,Heart Disease
+45,1,5,3,2,2,4,Pneumonia
+52,0,0,2,3,3,1,Flu
+80,0,1,0,5,4,3,Asthma
+50,0,0,0,1,3,1,COVID-19
+8,1,0,3,4,5,0,Asthma
+85,0,4,1,0,5,5,Migraine
+1,1,5,3,4,0,1,Hypertension
+8,0,0,2,3,5,0,Migraine
+29,0,2,4,2,2,2,Migraine
+96,1,2,2,3,4,0,Flu
+5,0,5,1,4,5,0,Heart Disease
+86,0,2,3,4,1,3,Diabetes
+47,1,4,0,5,4,3,Flu
+34,0,1,5,3,2,5,Malaria
+65,1,3,3,3,4,3,Diabetes
+55,1,0,1,3,5,0,Heart Disease
+90,1,3,0,0,1,4,Migraine
+43,1,1,2,4,0,3,Tuberculosis
+74,1,1,4,1,2,3,Hypertension
+30,0,4,4,0,2,0,Heart Disease
+82,0,2,3,0,4,2,Tuberculosis
+17,0,2,2,0,3,2,COVID-19
+26,1,1,5,5,3,1,Migraine
+8,1,4,5,1,1,5,Asthma
+47,1,4,1,3,0,2,Malaria
+76,1,5,4,5,0,3,Tuberculosis
+91,0,0,2,4,4,4,Heart Disease
+72,0,2,3,2,4,1,Asthma
+89,1,1,0,5,3,5,Flu
+46,1,5,3,2,5,4,COVID-19
+68,0,3,3,4,0,4,COVID-19
+33,1,2,2,1,5,3,Flu
+1,1,0,4,2,0,0,COVID-19
+19,1,4,2,0,5,0,Asthma
+31,0,1,0,5,5,0,Asthma
+80,0,2,2,2,0,2,Hypertension
+14,1,3,1,4,1,0,Diabetes
+53,0,0,3,0,1,5,Heart Disease
+48,1,0,4,2,4,3,Tuberculosis
+69,1,5,5,4,5,2,Hypertension
+90,0,2,0,1,5,5,Diabetes
+62,1,3,5,4,5,0,Asthma
+92,1,0,3,1,5,5,Migraine
+66,0,1,2,0,5,4,Hypertension
+64,1,0,5,4,3,3,Pneumonia
+70,1,3,1,3,2,3,COVID-19
+63,1,4,2,5,5,5,COVID-19
+73,0,4,3,3,3,1,Asthma
+33,1,5,5,3,1,3,Diabetes
+41,0,2,0,3,5,4,Malaria
+89,1,3,5,5,1,3,Heart Disease
+48,1,5,5,3,4,1,Hypertension
+13,1,0,4,1,2,3,Flu
+73,1,0,5,4,0,3,Pneumonia
+77,0,4,3,0,2,1,Pneumonia
+31,0,5,0,3,5,3,Tuberculosis
+75,1,4,3,3,5,5,Pneumonia
+68,1,1,1,0,2,2,COVID-19
+98,1,4,2,0,2,5,Heart Disease
+4,1,1,5,3,4,3,Asthma
+19,1,0,4,1,1,0,Pneumonia
+70,1,5,0,0,0,0,Flu
+98,1,1,4,4,2,2,Hypertension
+82,1,5,4,4,0,3,Diabetes
+13,0,5,4,1,2,4,Heart Disease
+23,0,1,5,5,1,3,Tuberculosis
+83,0,2,0,2,0,0,Pneumonia
+75,1,4,0,1,3,1,COVID-19
+1,1,1,4,3,1,2,Malaria
+88,1,0,2,2,0,1,Migraine
+54,0,5,5,3,2,4,Diabetes
+71,1,3,5,4,2,3,Flu
+89,0,1,3,0,1,4,Hypertension
+85,1,4,5,3,1,1,Tuberculosis
+15,0,5,4,4,2,3,Asthma
+65,0,2,1,1,0,5,Migraine
+76,0,0,4,3,3,5,Hypertension
+71,1,2,0,4,4,4,Heart Disease
+15,0,3,5,0,1,5,Malaria
+21,1,1,5,3,2,5,Asthma
+19,1,5,3,5,0,0,Hypertension
+60,1,1,1,4,1,5,Hypertension
+93,1,4,5,3,0,0,Malaria
+89,1,1,3,0,1,2,Migraine
+33,0,0,3,3,2,0,Hypertension
+49,1,3,1,3,0,0,Asthma
+96,1,2,4,5,2,1,Diabetes
+35,1,3,4,4,0,0,Hypertension
+44,1,5,4,2,1,0,Hypertension
+90,1,1,2,3,4,1,Hypertension
+11,0,5,4,2,4,0,COVID-19
+99,0,2,1,1,3,5,Asthma
+72,1,5,2,3,3,0,Tuberculosis
+78,0,4,4,2,5,2,Hypertension
+74,0,3,2,1,2,0,Heart Disease
+66,1,2,1,5,0,0,Malaria
+46,0,2,4,4,3,2,Malaria
+9,1,2,0,3,1,1,COVID-19
+3,0,0,5,4,4,5,Flu
+85,0,3,1,1,0,0,Heart Disease
+26,0,5,3,4,5,5,Heart Disease
+72,1,2,3,4,4,4,Asthma
+48,0,3,1,0,0,5,Migraine
+66,0,2,3,1,3,1,Diabetes
+70,1,4,1,4,3,1,Asthma
+28,1,4,0,2,2,0,Hypertension
+93,0,4,1,1,5,2,COVID-19
+26,1,1,4,0,0,1,Malaria
+25,0,2,4,3,5,2,Tuberculosis
+12,0,1,2,5,1,4,COVID-19
+5,1,3,3,4,5,2,Flu
+98,1,1,5,2,3,3,Pneumonia
+48,1,3,3,0,2,2,Hypertension
+37,0,3,1,1,3,1,COVID-19
+79,1,3,5,5,4,2,Asthma
+44,0,5,5,5,3,2,Flu
+15,1,1,3,4,0,3,Migraine
+43,0,5,5,0,2,3,Asthma
+48,1,2,5,0,0,0,Flu
+87,0,1,4,2,1,1,Asthma
+70,1,2,0,3,1,0,Malaria
+46,0,2,1,3,3,3,Asthma
+43,1,3,3,3,2,2,Diabetes
+21,1,1,4,5,5,3,Hypertension
+23,0,2,2,5,2,4,Tuberculosis
+80,1,4,5,1,2,2,Hypertension
+47,0,2,5,5,2,0,Tuberculosis
+15,0,4,3,5,3,2,Tuberculosis
+25,1,1,0,0,0,4,Tuberculosis
+36,0,5,0,1,3,3,Diabetes
+75,1,1,3,0,5,1,Malaria
+51,1,5,3,2,0,5,Pneumonia
+15,0,5,4,2,5,1,COVID-19
+68,1,1,3,1,4,1,Hypertension
+21,0,2,2,1,4,3,Asthma
+13,0,0,4,5,0,1,Flu
+86,1,2,5,2,3,4,COVID-19
+19,1,2,5,4,5,3,Tuberculosis
+34,0,3,5,3,5,1,Tuberculosis
+78,0,3,5,5,1,5,Malaria
+68,1,2,1,3,5,0,Heart Disease
+52,1,4,2,2,3,3,Heart Disease
+27,1,5,4,3,1,3,COVID-19
+29,1,3,4,4,3,2,Diabetes
+28,0,2,5,4,2,1,Asthma
+35,1,0,0,0,5,0,Hypertension
+8,0,4,4,1,2,5,Pneumonia
+16,0,1,2,3,4,4,Migraine
+36,1,2,3,4,4,3,Migraine
+30,0,2,2,1,0,4,Pneumonia
+18,1,5,5,1,5,4,Diabetes
+2,0,4,5,0,1,4,Migraine
+49,1,3,1,1,2,2,Pneumonia
+77,0,3,4,1,3,4,Hypertension
+4,0,3,4,5,5,1,Tuberculosis
+90,1,1,4,2,0,1,Migraine
+89,1,4,5,0,3,0,Asthma
+94,0,4,4,0,2,0,Asthma
+75,0,3,0,3,5,5,Asthma
+7,1,3,0,1,2,4,Tuberculosis
+95,0,5,3,3,5,4,Malaria
+74,1,0,4,5,5,2,Tuberculosis
+39,0,0,1,4,2,4,Tuberculosis
+13,1,2,3,1,2,4,Tuberculosis
+31,0,2,5,4,3,4,COVID-19
+71,1,4,4,2,0,3,Heart Disease
+63,1,4,0,5,2,3,Hypertension
+56,0,1,1,1,4,2,COVID-19
+42,1,1,3,3,0,2,Asthma
+61,0,0,1,3,4,1,Diabetes
+42,1,2,4,1,3,2,Malaria
+56,1,0,2,3,2,5,Heart Disease
+36,1,0,1,1,0,1,Pneumonia
+84,0,2,1,0,2,4,Diabetes
+68,1,1,5,3,5,2,Diabetes
+7,0,5,0,1,2,5,Diabetes
+54,1,5,4,1,0,2,Malaria
+1,0,5,1,3,2,2,Flu
+44,0,2,4,0,2,1,Migraine
+45,0,3,0,3,1,1,Pneumonia
+47,1,3,5,1,1,0,Migraine
+13,0,3,4,0,0,1,Migraine
+22,1,4,0,4,0,1,Tuberculosis
+21,0,1,0,2,5,3,Heart Disease
+86,0,1,3,3,5,2,Pneumonia
+92,0,4,5,5,2,1,Asthma
+9,0,0,5,1,4,2,Asthma
+26,1,5,4,0,0,2,Pneumonia
+9,0,3,2,0,2,3,COVID-19
+15,0,5,3,4,4,2,Heart Disease
+10,1,3,5,3,1,5,Flu
+88,0,5,0,5,5,1,Heart Disease
+42,0,0,5,0,0,2,Tuberculosis
+72,0,5,2,4,2,0,Asthma
+24,0,5,1,1,1,0,Hypertension
+80,1,2,1,4,3,3,Asthma
+49,1,5,5,3,1,5,COVID-19
+26,0,2,5,4,2,1,Flu
+91,1,1,3,0,5,3,Heart Disease
+37,1,4,5,0,4,0,Diabetes
+68,0,5,2,2,3,5,Asthma
+50,1,1,5,4,3,1,Tuberculosis
+24,0,2,4,1,5,2,Pneumonia
+19,1,5,2,5,3,1,Tuberculosis
+60,1,5,3,5,0,4,Diabetes
+39,1,0,4,3,2,1,Pneumonia
+74,0,1,4,2,3,2,Malaria
+89,1,3,1,4,1,4,Pneumonia
+18,0,3,2,1,4,5,Tuberculosis
+19,0,0,4,2,2,3,Hypertension
+36,1,2,3,0,5,5,Malaria
+74,0,3,1,3,1,1,Tuberculosis
+97,1,3,4,4,0,3,Tuberculosis
+55,0,4,2,5,3,1,Migraine
+69,0,1,1,1,1,0,Flu
+47,1,2,2,0,2,0,Heart Disease
+49,1,5,2,2,1,2,Flu
+99,1,1,2,3,0,5,Diabetes
+98,1,2,1,2,4,0,Tuberculosis
+33,0,3,4,5,3,4,Diabetes
+21,0,4,5,2,2,4,Asthma
+81,0,1,0,1,3,1,COVID-19
+22,1,3,4,0,3,3,Diabetes
+48,0,2,1,4,5,4,Heart Disease
+37,1,1,0,1,3,1,Diabetes
+15,0,5,0,5,1,3,Migraine
+35,1,1,0,3,1,0,Malaria
+92,0,3,5,5,4,1,Asthma
+71,0,1,3,5,0,3,Migraine
+32,1,5,1,2,2,2,Tuberculosis
+11,0,4,5,3,1,5,Migraine
+10,1,4,5,1,3,5,Hypertension
+73,0,3,3,5,0,2,Tuberculosis
+78,0,2,0,1,2,4,COVID-19
+77,1,3,3,4,2,5,Migraine
+57,1,4,3,2,2,3,Malaria
+25,0,0,5,1,2,2,COVID-19
+2,0,0,1,3,4,4,Diabetes
+64,0,1,2,5,2,1,Migraine
+35,0,5,3,4,0,1,Asthma
+7,0,1,3,3,1,3,Flu
+85,0,0,0,2,0,3,Diabetes
+18,1,4,0,4,3,3,Pneumonia
+67,1,1,5,4,5,5,Hypertension
+42,1,3,0,4,4,3,Asthma
+39,0,5,4,5,4,2,Asthma
+41,0,3,3,0,3,2,COVID-19
+75,0,5,0,4,0,4,Flu
+24,1,4,1,3,0,2,Malaria
+60,1,1,4,3,3,5,COVID-19
+46,0,5,5,2,5,1,Flu
+19,0,3,2,1,2,4,Migraine
+68,1,1,3,1,2,2,Hypertension
+90,1,1,3,0,1,3,Diabetes
+42,1,3,1,5,0,2,Asthma
+32,0,0,2,5,0,0,Malaria
+39,0,5,2,4,3,4,COVID-19
+36,0,3,5,0,3,5,Hypertension
+97,1,4,5,2,2,2,Diabetes
+36,1,2,4,2,0,2,Hypertension
+3,0,3,3,1,0,5,Asthma
+73,0,1,0,2,4,1,Migraine
+8,1,1,5,4,1,3,Malaria
+97,0,3,1,3,1,3,Flu
+70,1,2,1,2,2,1,Pneumonia
+41,1,3,1,0,5,1,Malaria
+68,0,2,5,4,0,0,Flu
+13,1,2,5,2,4,5,COVID-19
+49,0,4,1,5,0,4,Migraine
+60,1,5,5,2,3,3,Flu
+2,1,1,0,5,2,1,Migraine
+60,0,1,0,4,5,1,Hypertension
+5,1,2,4,2,1,5,Malaria
+44,0,1,3,5,0,4,Malaria
+27,0,0,0,3,5,1,Asthma
+32,1,2,4,1,2,0,Malaria
+21,0,1,2,4,1,4,Hypertension
+8,0,0,3,5,0,0,Asthma
+72,0,4,0,0,4,2,Migraine
+50,0,1,2,2,2,3,Tuberculosis
+67,0,0,4,5,0,1,Flu
+44,0,3,0,5,1,4,Diabetes
+58,1,5,0,5,1,0,Migraine
+3,0,3,5,1,4,3,Hypertension
+86,1,0,2,0,2,3,Migraine
+70,1,2,0,0,2,1,Diabetes
+2,0,2,1,3,5,3,Hypertension
+87,1,1,5,1,0,1,Malaria
+44,1,3,5,5,5,2,Migraine
+2,0,2,0,4,1,1,Flu
+81,0,2,5,1,1,5,COVID-19
+35,0,3,3,1,4,0,Malaria
+98,1,4,2,0,4,5,Malaria
+87,1,2,3,3,2,3,Tuberculosis
+30,0,5,4,3,5,3,COVID-19
+8,0,0,3,1,1,3,Heart Disease
+22,1,1,1,1,0,1,COVID-19
+44,1,2,5,2,3,4,Tuberculosis
+58,1,5,5,5,0,1,Pneumonia
+36,1,5,1,0,4,0,Diabetes
+69,0,2,5,5,0,1,Tuberculosis
+77,1,4,3,4,1,3,Pneumonia
+93,1,0,4,4,5,2,Asthma
+31,1,1,0,3,2,0,Malaria
+47,1,2,1,0,5,5,Heart Disease
+55,0,1,3,5,3,2,Tuberculosis
+80,0,3,3,3,2,0,Flu
+62,1,5,3,4,3,0,Heart Disease
+30,1,5,0,1,3,3,Asthma
+55,0,2,2,0,1,5,Hypertension
+16,0,2,5,0,1,1,Flu
+12,1,3,5,5,4,5,Hypertension
+17,1,4,4,2,4,3,Flu
+16,0,2,2,5,3,3,Heart Disease
+12,0,5,5,1,5,3,Flu
+8,0,1,4,1,4,2,Heart Disease
+84,0,0,4,3,1,5,Diabetes
+3,0,1,3,0,4,5,Hypertension
+16,0,4,1,3,3,0,Migraine
+30,1,0,3,1,2,4,Asthma
+23,0,1,0,2,5,1,Flu
+92,0,1,5,0,5,3,Heart Disease
+5,0,3,4,1,0,5,Asthma
+84,0,4,1,2,4,5,Pneumonia
+65,1,5,5,5,5,0,COVID-19
+30,1,3,4,4,1,1,Flu
+21,0,0,4,1,2,4,Tuberculosis
+84,1,5,3,4,1,4,Malaria
+70,1,3,1,3,4,3,Migraine
+22,1,4,1,4,3,4,Diabetes
+82,1,2,5,1,0,4,Heart Disease
+72,1,2,4,4,0,1,Heart Disease
+32,1,0,1,0,2,1,COVID-19
+33,0,2,1,1,5,3,COVID-19
+16,0,3,5,2,5,5,Migraine
+76,0,0,3,4,5,0,Flu
+38,0,5,2,0,0,3,Hypertension
+98,0,4,0,3,3,2,COVID-19
+14,1,0,2,3,5,4,Pneumonia
+36,0,5,1,4,1,0,COVID-19
+97,0,0,4,3,5,5,Tuberculosis
+23,1,1,0,2,3,5,Pneumonia
+66,1,1,0,1,2,1,Hypertension
+85,0,0,4,0,2,2,Tuberculosis
+2,1,2,0,5,0,5,Tuberculosis
+91,1,1,4,4,3,2,Migraine
+73,1,4,0,3,1,4,COVID-19
+65,1,5,5,1,3,1,Asthma
+75,0,3,5,5,1,0,Pneumonia
+67,1,1,2,2,1,1,Diabetes
+52,0,0,0,3,3,4,Asthma
+62,0,2,3,3,4,5,Malaria
+23,1,3,4,0,3,2,Diabetes
+26,1,5,0,2,1,4,Flu
+68,1,5,5,2,5,5,Hypertension
+82,0,1,5,4,2,3,Migraine
+55,1,5,4,5,2,2,Asthma
+6,1,5,3,0,0,4,COVID-19
+35,1,2,0,4,2,0,Hypertension
+22,1,2,0,0,4,0,Tuberculosis
+43,1,2,3,2,1,5,Pneumonia
+15,0,0,3,0,3,5,Malaria
+86,1,5,3,0,3,0,Migraine
+60,1,5,5,0,4,3,Tuberculosis
+12,1,5,4,1,2,1,Hypertension
+49,0,4,3,1,1,0,Pneumonia
+42,1,2,4,5,2,5,Malaria
+38,0,3,2,5,0,5,Tuberculosis
+82,0,1,0,2,2,3,Malaria
+45,1,3,0,0,0,0,Hypertension
+35,1,0,1,2,3,3,COVID-19
+30,1,0,2,1,1,0,Heart Disease
+88,0,5,3,0,5,1,Flu
+30,0,3,3,4,0,4,Flu
+78,0,5,5,1,2,0,Tuberculosis
+6,0,4,2,1,2,4,Tuberculosis
+67,0,0,3,1,3,0,Flu
+80,0,0,1,0,4,1,Asthma
+7,1,3,4,5,5,5,COVID-19
+52,1,0,0,3,4,4,Flu
+14,0,4,2,4,2,3,Flu
+73,1,4,0,4,4,0,Pneumonia
+15,1,4,4,2,5,5,Tuberculosis
+21,0,1,2,0,5,0,Malaria
+35,0,4,4,5,1,3,Pneumonia
+66,1,4,3,1,4,1,Tuberculosis
+91,0,1,3,3,1,2,Flu
+2,0,5,3,0,2,0,Migraine
+35,1,2,4,0,2,3,Heart Disease
+82,0,0,4,5,2,2,Tuberculosis
+78,1,4,4,3,3,0,Heart Disease
+20,1,0,0,1,4,4,Diabetes
+82,1,3,4,0,0,5,COVID-19
+10,1,0,3,4,5,5,Flu
+25,1,5,1,4,0,3,Malaria
+66,0,1,4,3,2,4,Asthma
+25,0,0,1,1,4,1,Malaria
+54,0,0,3,3,1,2,Pneumonia
+33,0,0,4,0,0,3,Heart Disease
+36,1,2,0,4,2,0,Pneumonia
+95,1,2,0,2,0,5,Migraine
+14,0,3,1,3,0,0,Diabetes
+65,1,1,5,2,5,2,Malaria
+80,0,0,0,2,0,4,Malaria
+54,0,0,0,5,2,4,Migraine
+52,0,0,0,4,5,3,Flu
+3,1,0,3,3,2,3,Tuberculosis
+99,1,2,0,2,3,4,Heart Disease
+41,1,5,2,0,3,3,Heart Disease
+6,1,5,4,5,3,4,COVID-19
+25,0,3,0,1,0,2,COVID-19
+13,1,4,5,5,4,3,COVID-19
+98,1,1,5,1,2,4,Heart Disease
+8,1,5,0,4,3,3,Tuberculosis
+21,0,0,0,3,4,0,Flu
+98,0,5,2,3,3,5,Diabetes
+68,1,3,0,1,3,0,Diabetes
+25,1,4,0,0,4,1,Migraine
+79,1,5,4,1,3,4,Hypertension
+68,1,3,5,1,0,1,Asthma
+45,0,2,2,3,0,4,Tuberculosis
+60,1,4,5,2,5,5,Hypertension
+12,1,3,2,0,0,3,Pneumonia
+32,1,5,5,3,1,4,COVID-19
+96,0,2,0,5,5,0,Pneumonia
+92,0,3,5,1,3,3,Diabetes
+13,1,3,5,2,1,5,Asthma
+31,1,5,2,0,2,0,Hypertension
+78,1,4,1,4,4,3,Malaria
+20,1,2,2,0,2,4,Flu
+18,1,0,2,0,1,4,Asthma
+93,0,1,2,1,0,0,Heart Disease
+60,0,4,3,1,3,2,Asthma
+63,0,2,3,4,5,4,Migraine
+6,1,3,3,4,3,2,Heart Disease
+32,0,2,2,4,0,3,Hypertension
+93,0,1,1,3,3,2,Pneumonia
+43,0,5,2,3,4,0,Flu
+2,1,1,0,1,4,1,Migraine
+60,1,0,1,1,4,1,Asthma
+23,0,0,3,4,2,0,Diabetes
+83,1,1,5,3,0,1,Heart Disease
+31,0,4,5,2,4,0,Hypertension
+5,0,4,4,3,1,4,Hypertension
+83,0,3,1,1,4,2,Malaria
+34,0,0,3,3,5,1,Pneumonia
+10,1,3,1,1,2,4,COVID-19
+89,1,0,1,4,1,1,Migraine
+2,1,1,5,4,0,3,Diabetes
+11,1,4,2,4,0,0,Pneumonia
+50,0,4,0,2,5,0,Hypertension
+31,1,1,4,2,4,4,COVID-19
+56,0,3,3,1,1,3,Asthma
+79,1,3,1,0,5,2,Hypertension
+73,1,2,4,5,1,3,Migraine
+87,1,0,1,2,4,3,Flu
+83,0,3,5,1,4,5,Flu
+9,0,1,0,3,3,2,Hypertension
+99,0,3,5,4,3,2,Migraine
+21,0,4,4,4,4,3,Heart Disease
+73,1,0,3,4,2,1,COVID-19
+28,0,5,1,1,5,5,Tuberculosis
+62,0,2,0,4,3,1,Hypertension
+7,1,0,5,2,4,3,Pneumonia
+80,1,4,4,3,1,1,Asthma
+16,0,4,5,4,5,2,Malaria
+97,1,4,1,1,3,2,Pneumonia
+4,0,4,1,3,2,1,Flu
+4,1,1,3,4,5,2,Malaria
+40,0,2,0,0,5,0,Heart Disease
+17,0,5,2,4,0,2,Heart Disease
+52,0,4,5,5,1,3,COVID-19
+93,0,4,1,2,2,4,COVID-19
+52,0,3,4,3,2,1,Diabetes
+36,1,2,5,2,2,5,Heart Disease
+38,0,0,3,0,1,1,Flu
+50,0,2,3,0,2,2,COVID-19
+63,0,2,1,5,0,2,Hypertension
+63,0,5,1,2,3,4,Flu
+62,0,2,1,3,1,4,Hypertension
+99,1,5,2,0,2,5,Pneumonia
+7,1,4,1,0,4,3,Diabetes
+27,0,4,5,4,3,0,Asthma
+92,1,1,5,5,5,3,Asthma
+86,0,5,0,1,1,5,Migraine
+14,1,5,4,0,4,1,Asthma
+71,1,0,1,3,5,2,COVID-19
+86,0,3,5,3,4,3,Flu
+5,1,2,5,4,2,2,Asthma
+55,1,0,5,3,1,2,Malaria
+2,0,5,2,4,2,3,Diabetes
+62,0,0,4,0,5,3,Asthma
+91,1,1,3,0,0,4,Asthma
+21,1,3,5,0,4,5,COVID-19
+79,1,5,1,0,0,5,Heart Disease
+21,0,5,5,1,5,0,Tuberculosis
+10,1,2,4,5,2,4,Hypertension
+87,1,3,3,5,3,0,COVID-19
+58,1,1,2,1,4,3,Asthma
+39,0,4,0,0,3,5,COVID-19
+5,0,0,1,3,1,5,Pneumonia
+65,0,2,0,4,4,0,COVID-19
+13,0,5,2,5,0,1,Hypertension
+85,1,4,4,2,3,4,COVID-19
+90,0,1,4,4,5,4,Migraine
+85,1,3,2,2,1,4,Pneumonia
+53,1,0,5,2,4,5,Tuberculosis
+82,1,2,2,0,5,2,Heart Disease
+45,1,5,1,2,1,5,Flu
+32,0,5,3,0,0,2,Heart Disease
+36,0,4,0,1,5,5,Asthma
+81,0,4,0,3,4,3,Hypertension
+99,0,0,4,2,1,5,Migraine
+60,0,3,5,3,2,3,Migraine
+11,1,1,4,0,4,2,COVID-19
+63,0,3,1,2,4,4,Flu
+21,0,3,2,4,4,2,Tuberculosis
+52,0,3,0,1,4,0,Flu
+55,0,0,1,5,2,4,Diabetes
+26,1,0,4,1,5,5,Migraine
+68,1,1,4,2,5,5,Migraine
+34,1,3,0,1,5,5,Asthma
+52,1,0,4,5,0,5,Malaria
+82,1,1,5,4,2,5,Heart Disease
+99,0,5,4,3,2,2,Diabetes
+93,1,1,3,4,1,3,COVID-19
+52,1,3,2,1,3,2,Pneumonia
+29,1,2,4,5,5,1,Asthma
+38,0,3,3,3,3,2,Pneumonia
+42,0,2,1,5,1,4,Pneumonia
+21,1,1,4,4,2,5,Tuberculosis
+42,0,5,5,0,1,2,Migraine
+13,0,5,1,0,4,3,Flu
+64,1,0,4,3,1,5,Tuberculosis
+17,0,5,0,3,1,0,Malaria
+9,0,4,3,3,4,1,Flu
+41,0,1,3,0,3,4,Pneumonia
+1,1,0,0,4,4,3,Pneumonia
+2,1,5,2,3,0,1,Migraine
+60,1,1,5,0,1,2,COVID-19
+48,0,3,3,3,1,1,Flu
+29,1,5,1,3,3,5,Hypertension
+97,0,2,5,5,2,5,Heart Disease
+10,0,1,3,3,4,0,COVID-19
+58,0,0,2,0,2,1,Flu
+60,1,3,1,4,0,1,Heart Disease
+21,1,4,5,0,4,5,Asthma
+28,1,3,1,0,0,2,Migraine
+75,1,5,0,3,0,2,Heart Disease
+34,0,2,4,5,0,4,Flu
+8,1,3,0,2,5,2,Malaria
+59,0,4,5,2,4,1,Malaria
+86,1,0,4,2,4,0,Migraine
+72,1,1,0,0,5,2,Tuberculosis
+49,1,2,4,3,3,5,Tuberculosis
+79,0,4,3,2,5,5,Malaria
+17,0,5,1,1,1,4,Tuberculosis
+60,0,5,4,1,2,4,Flu
+87,0,5,3,1,2,1,Malaria
+88,0,2,2,4,0,2,Heart Disease
+45,1,3,0,3,4,2,Migraine
+83,0,2,2,0,4,4,Asthma
+69,0,5,5,0,0,2,Heart Disease
+32,0,4,3,3,1,1,Heart Disease
+44,0,1,2,5,2,0,Hypertension
+65,1,1,2,5,5,5,Pneumonia
+87,0,2,3,4,3,1,Migraine
+8,1,5,1,3,1,2,Malaria
+77,1,0,4,5,4,1,COVID-19
+72,1,2,5,4,0,5,Flu
+87,0,5,5,2,2,3,Hypertension
+43,1,3,0,2,0,5,Malaria
+1,0,1,4,4,4,5,Asthma
+51,0,1,0,3,0,3,Pneumonia
+24,0,1,5,2,5,2,Heart Disease
+99,0,0,4,3,2,2,COVID-19
+24,0,5,2,5,0,0,Tuberculosis
+17,1,5,1,2,2,5,COVID-19
+5,1,5,2,5,0,1,Flu
+20,0,5,1,3,0,0,Pneumonia
+21,1,0,3,3,2,2,Pneumonia
+58,0,4,0,1,5,2,Tuberculosis
+31,1,2,0,4,0,4,Heart Disease
+11,1,2,3,0,5,0,Asthma
+52,1,5,4,4,1,2,Heart Disease
+15,1,3,3,3,3,3,Flu
+83,1,1,5,3,1,4,Asthma
+7,0,0,3,4,3,1,Heart Disease
+28,0,3,1,3,1,4,Pneumonia
+51,1,3,5,5,3,5,Diabetes
+58,0,5,3,2,0,5,Hypertension
+5,1,0,0,3,2,1,Asthma
+5,0,2,2,4,2,3,Diabetes
+94,1,1,1,4,4,1,Malaria
+96,1,2,1,4,3,0,Malaria
+8,1,3,4,1,4,1,Heart Disease
+64,0,1,2,5,5,1,Tuberculosis
+10,0,4,1,5,5,4,Heart Disease
+38,1,3,3,1,4,3,Tuberculosis
+96,1,2,1,5,3,1,Heart Disease
+92,0,2,1,1,2,0,COVID-19
+81,0,5,1,5,3,4,Flu
+95,0,2,4,1,5,3,Hypertension
+8,0,0,1,1,0,3,Tuberculosis
+25,0,3,1,5,4,2,Flu
+73,1,1,4,1,4,5,COVID-19
+66,0,2,5,5,5,0,Malaria
+79,1,5,2,1,3,5,Heart Disease
+50,1,5,5,4,4,4,Migraine
+67,0,2,0,0,2,4,Flu
+49,0,0,4,5,4,0,Heart Disease
+36,1,5,4,1,3,3,Malaria
+68,0,1,1,4,5,1,Tuberculosis
+78,1,3,1,0,2,0,Flu
+41,0,4,0,1,2,4,Asthma
+89,0,0,1,0,4,5,Heart Disease
+62,0,5,3,5,3,0,Flu
+10,1,3,1,0,4,3,Pneumonia
+21,0,4,1,2,0,2,COVID-19
+36,1,2,3,3,5,2,Diabetes
+12,0,2,0,2,0,1,Tuberculosis
+91,1,1,3,5,2,1,Hypertension
+2,0,4,4,5,4,3,Hypertension
+13,1,2,3,0,0,5,COVID-19
+53,1,2,2,4,1,1,Asthma
+32,1,5,4,1,0,2,Asthma
+95,1,1,1,3,4,3,Migraine
+16,1,3,4,1,4,3,Migraine
+32,1,2,0,4,5,3,Diabetes
+32,0,0,0,5,0,0,Diabetes
+98,1,0,3,3,4,5,Migraine
+11,1,3,4,2,4,5,COVID-19
+10,1,4,1,5,5,1,Malaria
+15,0,1,0,5,5,5,Tuberculosis
+17,0,5,5,0,5,4,Pneumonia
+40,0,0,1,4,5,2,Migraine
+18,1,0,5,0,1,1,Asthma
+55,0,3,2,0,2,5,Tuberculosis
+73,0,4,5,1,4,2,Malaria
+25,1,4,0,5,3,1,Diabetes
+59,1,3,3,4,5,4,Heart Disease
+78,0,0,2,0,2,2,COVID-19
+89,1,1,4,2,5,4,Asthma
+22,1,0,1,3,2,2,Hypertension
+30,1,4,0,4,3,0,Hypertension
+84,1,5,2,1,0,0,Diabetes
+85,0,0,2,4,1,2,Heart Disease
+44,1,1,0,5,4,2,Asthma
+32,0,2,4,1,0,4,COVID-19
+51,0,0,4,3,3,5,Diabetes
+46,0,3,3,2,1,3,Malaria
+21,0,2,5,0,1,2,Hypertension
+99,1,3,4,4,1,1,Flu
+32,1,3,3,1,3,1,Pneumonia
+94,1,3,5,3,5,1,Tuberculosis
+39,0,0,2,0,5,0,Migraine
+12,0,4,0,3,5,5,Malaria
+47,0,2,4,2,0,4,COVID-19
+18,1,1,3,0,4,5,Flu
+21,0,4,2,0,1,0,COVID-19
+13,1,0,4,0,1,5,Hypertension
+21,1,3,1,1,0,5,Malaria
+8,1,1,2,0,5,1,Diabetes
+46,1,2,4,3,1,2,Hypertension
+7,0,4,2,1,1,1,Asthma
+23,1,5,0,0,3,5,Asthma
+96,0,4,0,3,2,2,Pneumonia
+75,1,1,0,3,0,4,Tuberculosis
+86,0,0,5,4,0,3,Heart Disease
+22,0,2,1,3,5,2,Migraine
+89,1,1,0,5,0,0,Diabetes
+22,1,3,1,2,5,1,Flu
+92,1,2,0,0,3,1,Migraine
+29,0,4,5,0,3,5,Pneumonia
+13,1,1,2,0,4,5,Malaria
+82,1,4,4,3,5,5,Heart Disease
+2,0,4,4,3,3,5,COVID-19
+29,1,4,0,0,5,1,Tuberculosis
+85,0,0,4,5,0,2,Migraine
+79,1,4,0,1,4,4,Migraine
+52,0,3,0,1,2,2,Tuberculosis
+27,0,3,3,2,1,0,Migraine
+50,1,2,3,4,1,1,Flu
+95,0,5,3,2,4,2,Heart Disease
+79,1,4,1,0,5,1,Hypertension
+23,1,4,3,0,5,0,Malaria
+88,0,1,0,0,5,3,Tuberculosis
+44,1,0,5,4,2,3,Tuberculosis
+77,0,5,5,3,1,3,COVID-19
+22,0,2,2,4,4,1,Pneumonia
+43,0,5,3,2,5,2,Pneumonia
+37,0,4,5,3,3,1,Migraine
+61,0,1,3,3,0,4,Tuberculosis
+97,0,0,2,2,2,2,Migraine
+56,0,2,5,3,5,0,Asthma
+3,0,5,0,1,1,5,COVID-19
+63,1,2,1,2,0,3,Migraine
+19,1,4,3,2,4,2,Asthma
+23,0,2,5,1,5,2,Diabetes
+29,1,1,5,4,1,3,Pneumonia
+30,1,2,2,4,0,0,Heart Disease
+39,1,3,0,4,3,1,Pneumonia
+25,1,1,4,3,2,1,Hypertension
+8,1,5,5,1,4,5,COVID-19
+58,1,0,1,2,1,2,COVID-19
+16,0,0,2,2,3,3,Tuberculosis
+72,1,4,5,2,2,4,Migraine
+1,1,4,5,3,2,0,Diabetes
+5,1,3,2,3,3,1,Hypertension
+3,1,5,2,5,1,0,Migraine
+65,0,0,3,4,2,0,Hypertension
+4,0,0,5,5,4,5,Tuberculosis
+99,0,0,4,5,0,0,Tuberculosis
+96,0,0,1,3,4,3,Pneumonia
+64,1,2,0,4,5,5,Malaria
+98,0,5,0,4,2,3,Pneumonia
+89,0,1,4,2,0,5,COVID-19
+10,0,1,2,3,3,3,COVID-19
+21,0,3,2,4,0,5,Diabetes
+46,1,2,2,5,0,5,Heart Disease
+91,0,0,5,1,0,2,Asthma
+27,1,0,2,1,2,3,Asthma
+66,0,4,2,3,5,2,Migraine
+41,1,4,5,2,5,5,Tuberculosis
+13,1,3,5,2,1,1,Flu
+9,0,0,4,4,5,5,Tuberculosis
+36,0,3,3,3,2,1,Flu
+86,0,2,5,1,1,1,Tuberculosis
+90,0,1,1,5,3,1,Asthma
+58,1,0,2,4,3,1,Heart Disease
+54,1,5,3,5,3,3,Heart Disease
+12,0,2,0,4,3,4,Pneumonia
+81,0,0,4,0,3,3,Pneumonia
+78,1,5,3,5,4,4,Diabetes
+14,0,4,5,3,2,3,Flu
+34,1,3,2,5,1,1,Flu
+53,0,4,2,5,3,0,Flu
+20,1,1,2,4,4,5,Pneumonia
+75,1,4,3,1,5,4,Tuberculosis
+16,1,0,2,0,4,0,Malaria
+95,1,5,5,5,4,1,Pneumonia
+70,1,4,3,1,2,4,Asthma
+56,0,0,2,2,3,0,COVID-19
+83,1,1,0,0,4,3,Migraine
+58,0,5,0,0,4,1,Malaria
+4,1,4,1,4,3,3,Tuberculosis
+4,1,3,2,5,2,3,Tuberculosis
+20,0,3,2,2,4,1,Migraine
+10,0,5,3,4,1,4,Flu
+24,0,3,3,3,0,5,Asthma
+99,0,4,2,1,5,2,Flu
+26,1,4,1,1,0,2,Flu
+37,0,5,2,4,0,5,COVID-19
+85,1,4,5,1,2,1,COVID-19
+54,0,0,3,5,4,2,Heart Disease
+21,0,1,2,1,0,5,Hypertension
+74,1,3,3,5,0,0,Hypertension
+38,1,0,2,3,5,5,Pneumonia
+46,0,5,4,2,3,4,Flu
+4,1,3,3,0,4,5,Migraine
+60,1,0,1,4,4,3,Flu
+57,1,4,4,4,5,3,Asthma
+45,1,5,5,5,3,1,Diabetes
+20,1,5,2,3,4,3,Migraine
+17,1,3,5,3,1,0,Hypertension
+71,1,4,3,0,5,5,Malaria
+4,1,3,4,2,2,0,Heart Disease
+93,0,2,5,4,3,1,Heart Disease
+14,1,0,1,5,5,3,Pneumonia
+3,0,2,3,3,0,2,Flu
+88,1,0,4,4,4,5,Migraine
+80,1,1,5,5,1,2,Asthma
+58,1,5,4,1,1,4,Malaria
+55,1,3,4,4,2,1,Pneumonia
+4,0,1,5,2,5,4,Tuberculosis
+24,0,1,0,5,1,2,Pneumonia
+34,1,5,2,2,5,2,Tuberculosis
+30,0,5,3,4,4,2,Hypertension
+82,1,0,3,1,4,4,Asthma
+19,1,2,3,2,1,1,Tuberculosis
+31,0,4,4,3,4,5,COVID-19
+60,0,0,5,5,5,5,Asthma
+60,1,4,2,4,4,0,Flu
+19,1,1,1,1,0,0,Flu
+49,0,4,3,3,5,2,Pneumonia
+63,1,2,5,4,3,1,Hypertension
+83,0,0,2,1,4,1,Tuberculosis
+22,1,5,2,3,4,3,Flu
+24,1,2,0,2,5,3,Diabetes
+76,0,2,5,4,2,4,Diabetes
+30,0,0,3,4,3,3,Tuberculosis
+58,0,5,4,2,3,5,Hypertension
+31,1,2,2,0,3,5,Diabetes
+64,1,5,2,3,1,4,Flu
+19,1,3,1,2,0,0,Hypertension
+48,1,3,0,4,0,2,Tuberculosis
+45,0,3,2,3,2,1,Asthma
+94,1,4,2,3,3,0,Hypertension
+55,1,2,4,0,3,5,Flu
+55,1,0,4,4,4,0,Asthma
+97,0,0,1,1,5,4,Malaria
+18,1,4,5,0,1,2,Pneumonia
+63,1,0,1,0,1,5,Heart Disease
+92,0,3,1,1,2,4,Malaria
+47,1,2,4,1,0,0,Asthma
+75,1,0,5,0,3,1,Heart Disease
+57,0,0,4,3,5,3,Pneumonia
+45,1,1,0,2,2,4,Migraine
+33,1,1,3,2,1,5,Malaria
+17,1,1,3,0,1,0,Flu
+70,0,2,0,3,1,3,Hypertension
+4,1,3,3,1,3,3,Hypertension
+20,1,5,5,5,3,0,Heart Disease
+47,0,3,4,0,3,2,Heart Disease
+91,0,3,3,4,4,0,Heart Disease
+15,1,2,5,3,0,5,Tuberculosis
+70,1,2,4,4,1,1,Flu
+47,1,1,5,4,1,5,Heart Disease
+78,1,0,0,0,4,3,Diabetes
+75,0,4,1,3,1,1,Pneumonia
+9,1,4,0,4,1,4,Heart Disease
+90,0,5,3,3,3,3,Diabetes
+16,0,0,4,2,3,2,Tuberculosis
+69,1,5,5,5,0,0,Diabetes
+61,1,1,3,4,1,4,Migraine
+10,0,5,3,4,2,5,Migraine
+50,0,0,1,3,1,1,Diabetes
+3,1,0,3,5,1,4,Flu
+77,0,4,1,2,0,2,Tuberculosis
+94,1,1,4,4,2,0,Hypertension
+70,1,2,4,0,1,4,Diabetes
+81,0,5,5,3,5,5,Asthma
+51,0,4,1,3,5,1,COVID-19
+19,1,5,0,4,2,4,Pneumonia
+42,0,5,4,2,5,0,Pneumonia
+35,1,2,5,4,3,5,Flu
+46,1,1,0,1,3,4,Heart Disease
+26,1,0,4,4,2,1,COVID-19
+69,0,3,4,5,1,0,Hypertension
+93,1,5,5,5,2,2,Tuberculosis
+64,1,3,5,1,5,2,Migraine
+37,1,1,2,5,2,3,Heart Disease
+84,1,3,3,5,5,4,Migraine
+49,1,5,3,0,3,1,Hypertension
+21,1,2,0,3,2,4,COVID-19
+74,1,3,3,5,4,0,Flu
+64,1,1,0,3,5,3,Malaria
+5,1,1,4,2,4,1,Migraine
+70,1,2,2,4,3,4,COVID-19
+90,1,3,2,0,1,1,Diabetes
+4,0,3,4,1,5,0,Malaria
+39,1,0,5,2,1,3,Migraine
+35,1,4,1,0,3,1,Tuberculosis
+1,1,1,1,0,1,0,Pneumonia
+24,0,0,3,1,5,2,Malaria
+57,1,1,5,1,0,1,Diabetes
+70,0,0,0,3,5,3,Hypertension
+41,1,4,2,4,5,5,Asthma
+54,1,0,3,2,4,5,Diabetes
+46,0,1,4,4,0,1,Hypertension
+60,1,3,5,2,0,1,Hypertension
+60,0,1,2,0,0,0,COVID-19
+57,0,5,0,5,5,4,Pneumonia
+31,1,2,0,5,3,5,Migraine
+84,1,2,1,1,0,4,Malaria
+24,1,5,3,1,2,5,Heart Disease
+89,1,2,4,0,1,1,Malaria
+36,0,2,2,0,3,3,Pneumonia
+85,0,4,0,2,2,3,Malaria
+30,1,3,2,0,5,5,Hypertension
+24,0,3,4,2,5,5,Malaria
+30,0,1,2,4,2,0,Asthma
+86,1,5,3,1,4,1,Asthma
+92,0,0,1,1,4,1,Malaria
+7,0,1,2,5,2,4,COVID-19
+35,1,1,5,5,4,0,Flu
+55,0,1,1,1,1,2,COVID-19
+92,1,1,4,4,1,3,Malaria
+14,0,3,1,4,5,3,Flu
+10,1,0,2,3,4,1,Tuberculosis
+80,0,1,2,2,0,0,Hypertension
+16,0,3,5,5,2,2,Heart Disease
+54,1,1,0,2,1,3,Hypertension
+95,1,2,5,5,4,0,Tuberculosis
+89,1,1,2,3,4,2,Hypertension
+77,1,5,1,1,1,5,Heart Disease
+70,0,5,5,2,1,1,Migraine
+44,0,1,5,5,0,4,Diabetes
+73,0,4,0,2,4,3,Flu
+45,1,2,2,1,4,3,Hypertension
+56,0,0,2,0,3,2,Heart Disease
+84,0,1,4,5,5,4,Flu
+82,1,0,0,0,0,5,Heart Disease
+57,1,2,4,3,1,0,Asthma
+21,0,1,4,4,1,1,Migraine
+68,1,4,4,2,2,0,Diabetes
+50,0,3,3,5,5,2,Diabetes
+33,0,4,4,2,1,3,Flu
+91,1,4,5,3,4,5,COVID-19
+7,0,3,1,3,1,3,Pneumonia
+70,1,3,5,2,4,0,Pneumonia
+15,1,5,5,5,4,5,Asthma
+82,0,3,2,1,0,1,Flu
+32,0,1,3,1,1,2,Flu
+75,0,0,4,4,0,1,Diabetes
+20,1,5,2,2,5,2,Pneumonia
+88,0,5,0,2,4,1,COVID-19
+15,1,0,0,5,5,0,Hypertension
+48,1,5,2,2,1,4,Hypertension
+71,0,3,1,5,5,5,Hypertension
+21,1,4,2,2,5,2,Heart Disease
+42,0,2,2,3,1,0,COVID-19
+26,0,3,3,0,0,3,Tuberculosis
+14,0,4,0,2,0,3,Tuberculosis
+57,0,4,0,0,4,1,Malaria
+37,0,5,4,1,4,3,Pneumonia
+58,0,1,5,4,1,4,Malaria
+21,0,1,2,1,1,2,COVID-19
+82,1,5,2,2,3,1,Pneumonia
+69,0,5,1,5,3,2,Tuberculosis
+3,1,0,0,1,2,2,Flu
+87,1,0,1,3,4,0,Pneumonia
+90,1,2,3,0,5,3,Asthma
+37,0,2,4,5,2,5,Asthma
+88,1,2,1,5,2,2,COVID-19
+49,1,2,0,2,0,4,Malaria
+19,0,4,3,3,5,4,Tuberculosis
+89,0,4,2,0,0,5,Tuberculosis
+85,1,0,3,3,3,3,Diabetes
+12,0,1,5,1,2,3,Diabetes
+61,0,5,1,2,3,1,Asthma
+41,0,1,0,5,5,1,COVID-19
+33,0,3,1,5,5,1,Malaria
+50,1,4,2,1,4,3,Tuberculosis
+68,0,2,2,5,1,2,Hypertension
+71,0,2,0,4,0,0,Migraine
+86,0,3,5,2,4,5,Migraine
+33,1,1,4,1,4,5,Malaria
+81,1,2,3,2,0,5,Tuberculosis
+24,0,1,3,0,0,1,Flu
+61,0,5,2,2,5,0,Asthma
+61,1,3,1,2,5,4,Hypertension
+98,0,1,1,0,2,3,Malaria
+28,0,5,5,1,3,4,Migraine
+58,1,1,4,2,5,1,Flu
+43,0,1,1,3,4,2,Pneumonia
+41,0,2,3,2,2,1,Malaria
+39,1,0,1,1,2,0,Diabetes
+86,1,4,4,5,4,1,Diabetes
+49,0,1,3,0,5,5,Heart Disease
+17,1,1,1,5,4,2,Malaria
+98,0,1,3,1,1,2,COVID-19
+70,0,0,2,4,5,3,COVID-19
+70,0,5,2,5,3,3,Hypertension
+98,1,3,5,2,4,5,Asthma
+65,1,2,2,2,5,2,Tuberculosis
+74,0,0,1,0,0,5,Hypertension
+85,0,5,4,2,1,2,Pneumonia
+5,1,1,3,3,3,0,Malaria
+2,1,5,0,3,5,1,Heart Disease
+22,1,0,2,5,0,3,COVID-19
+57,0,0,2,1,5,0,Malaria
+66,1,0,0,0,0,1,Heart Disease
+74,1,3,0,4,3,3,Migraine
+98,0,4,1,5,1,5,Tuberculosis
+16,0,2,3,1,0,0,Flu
+51,0,3,2,0,2,4,Diabetes
+39,1,3,4,0,3,4,Diabetes
+86,0,4,1,5,3,3,Heart Disease
+76,0,3,1,1,4,0,Pneumonia
+88,0,0,4,1,1,1,Malaria
+40,0,0,4,2,2,1,Hypertension
+38,1,5,5,4,2,0,Asthma
+60,0,1,4,3,4,4,Flu
+59,1,3,0,2,0,0,Heart Disease
+10,1,1,2,0,0,4,Asthma
+99,1,2,5,4,2,4,Migraine
+64,0,0,0,4,1,5,Migraine
+63,1,5,5,1,0,5,Heart Disease
+49,0,2,2,4,3,1,Heart Disease
+64,0,5,5,5,5,3,Migraine
+32,0,4,0,4,4,2,Hypertension
+7,1,0,3,0,1,0,Migraine
+21,0,2,2,5,0,4,Hypertension
+20,0,4,1,5,5,0,Asthma
+26,0,2,2,2,2,3,Hypertension
+68,1,5,2,4,4,3,Diabetes
+86,1,4,2,1,0,2,Diabetes
+15,1,4,3,2,2,2,Malaria
+85,0,0,0,1,0,4,Tuberculosis
+79,1,1,1,4,4,5,Heart Disease
+86,0,5,0,2,3,2,Pneumonia
+92,0,5,5,4,3,5,COVID-19
+14,1,4,5,0,5,5,Hypertension
+27,0,4,5,2,2,4,Pneumonia
+40,1,0,0,1,3,1,Malaria
+58,0,1,4,0,4,5,Tuberculosis
+28,1,5,3,3,2,4,Pneumonia
+26,0,3,4,1,0,2,Pneumonia
+63,0,3,5,4,1,0,Diabetes
+66,0,1,3,1,0,2,Flu
+25,0,2,0,3,4,3,Tuberculosis
+3,0,0,5,1,5,2,COVID-19
+72,1,1,0,0,2,1,Asthma
+44,0,3,3,5,0,4,Malaria
+97,1,4,0,1,2,5,Heart Disease
+42,1,3,0,2,3,3,Heart Disease
+99,1,4,1,3,1,4,Asthma
+6,0,0,4,1,4,4,Malaria
+39,0,4,4,3,0,5,Asthma
+52,0,1,4,5,1,2,Hypertension
+23,1,4,2,0,4,0,Malaria
+89,0,2,1,2,4,3,Malaria
+50,0,1,5,4,5,5,Pneumonia
+43,1,0,5,1,3,1,Tuberculosis
+19,1,1,5,0,5,1,Tuberculosis
+69,1,2,4,3,5,0,Pneumonia
+51,1,0,4,5,2,0,Migraine
+11,1,3,1,3,2,2,Malaria
+12,1,2,0,5,1,1,Flu
+74,0,0,4,5,3,3,Pneumonia
+8,1,4,5,0,4,5,Asthma
+24,0,1,0,1,3,0,Migraine
+92,0,0,4,4,3,0,COVID-19
+41,0,1,3,1,1,0,Migraine
+36,1,4,2,2,2,5,Asthma
+85,0,0,4,1,3,3,Malaria
+72,1,3,3,5,3,1,Tuberculosis
+55,1,2,1,5,3,3,Hypertension
+9,0,0,3,2,0,5,Malaria
+47,1,4,1,3,3,3,Asthma
+15,0,0,4,5,3,2,Migraine
+48,0,1,1,2,4,5,Heart Disease
+82,1,5,3,5,5,0,Hypertension
+42,0,0,2,4,0,1,Diabetes
+60,0,3,0,5,3,2,Malaria
+84,0,0,0,0,5,2,Asthma
+70,1,2,2,2,3,5,COVID-19
+12,0,0,5,1,1,4,Malaria
+2,1,5,0,2,1,0,Malaria
+7,1,1,4,3,5,1,Pneumonia
+80,0,0,5,5,0,1,Migraine
+3,0,3,4,2,4,1,Flu
+3,1,4,3,4,0,5,Malaria
+27,1,0,3,2,0,0,Asthma
+40,0,0,5,4,1,5,Migraine
+33,0,2,5,5,1,1,Heart Disease
+92,1,3,5,1,4,3,COVID-19
+1,1,5,5,5,3,3,COVID-19
+8,1,4,1,3,4,0,Malaria
+32,1,1,5,0,3,1,Diabetes
+48,1,0,5,1,5,5,Migraine
+4,0,5,3,1,5,4,Heart Disease
+94,1,4,4,0,2,4,Tuberculosis
+70,1,1,3,2,1,4,Pneumonia
+19,0,5,0,5,2,3,Diabetes
+32,0,3,1,2,2,5,Tuberculosis
+9,1,3,1,2,1,4,Pneumonia
+12,1,4,4,5,2,1,COVID-19
+11,0,1,5,3,0,1,Tuberculosis
+46,1,3,3,1,3,4,Diabetes
+16,1,4,0,4,4,2,Pneumonia
+1,0,3,3,0,1,4,Diabetes
+63,1,3,5,1,0,2,Diabetes
+21,0,5,5,2,5,0,Pneumonia
+30,0,5,2,0,4,0,Heart Disease
+13,0,3,3,4,4,1,COVID-19
+34,0,2,4,1,4,5,Malaria
+4,1,5,3,1,2,3,Flu
+28,0,1,1,3,2,5,Hypertension
+95,1,4,0,1,2,1,Malaria
+59,1,4,4,1,2,1,Tuberculosis
+27,1,1,2,4,0,5,Pneumonia
+69,1,1,0,4,2,3,Heart Disease
+25,1,1,0,0,1,1,Heart Disease
+3,0,1,1,2,4,3,Tuberculosis
+97,0,0,1,4,0,1,Migraine
+68,0,4,1,0,5,0,Diabetes
+25,0,0,4,1,2,2,Hypertension
+20,1,3,3,0,5,1,Tuberculosis
+34,0,3,0,0,4,2,Tuberculosis
+26,1,4,3,0,0,4,Flu
+5,1,3,3,5,4,1,Malaria
+99,0,1,1,0,5,0,Tuberculosis
+61,0,0,3,4,0,3,Migraine
+92,0,1,0,5,3,0,Tuberculosis
+93,0,3,0,2,0,2,Tuberculosis
+9,1,5,5,0,2,3,Malaria
+50,1,0,2,3,5,0,Tuberculosis
+6,0,1,4,1,4,0,Migraine
+83,1,4,3,1,4,0,Malaria
+60,1,1,4,5,4,5,Asthma
+44,1,5,4,1,1,3,COVID-19
+11,0,3,4,1,1,0,COVID-19
+66,1,0,5,5,2,0,Diabetes
+47,0,4,4,1,3,2,Hypertension
+73,0,0,5,0,1,0,Heart Disease
+85,1,4,0,2,0,0,Flu
+88,1,0,3,5,5,4,Migraine
+98,0,3,5,3,2,3,COVID-19
+86,1,4,2,5,3,4,Asthma
+3,1,2,4,4,0,5,Migraine
+76,0,0,2,3,4,2,Malaria
+92,0,0,0,4,1,4,Asthma
+30,0,1,0,5,0,5,Migraine
+90,0,4,1,4,3,1,COVID-19
+21,1,5,4,3,2,3,Heart Disease
+28,1,2,1,0,0,0,Pneumonia
+90,0,3,2,5,2,4,Flu
+62,0,1,3,5,4,4,Flu
+33,0,2,1,1,3,0,Migraine
+85,1,4,0,5,3,0,COVID-19
+35,0,2,4,5,1,2,Asthma
+52,1,0,2,0,5,4,COVID-19
+34,0,0,5,1,3,4,COVID-19
+41,0,1,0,2,0,1,Tuberculosis
+51,0,4,5,4,0,5,Pneumonia
+47,1,4,3,3,0,1,Tuberculosis
+82,1,2,4,2,4,4,Asthma
+58,1,1,3,1,3,1,Pneumonia
+75,0,4,3,0,3,4,COVID-19
+57,1,5,4,3,0,3,Heart Disease
+23,1,5,4,4,1,2,Asthma
+48,0,0,5,5,1,1,Migraine
+22,0,2,3,5,3,4,Migraine
+17,1,3,2,2,3,1,Migraine
+69,1,0,5,4,2,5,Hypertension
+11,1,1,4,1,3,2,Pneumonia
+94,1,4,0,4,0,3,COVID-19
+15,0,0,5,0,5,0,COVID-19
+91,0,3,1,2,4,0,Pneumonia
+35,0,3,2,2,3,1,Tuberculosis
+33,1,5,5,0,3,4,Migraine
+84,1,1,4,4,0,5,Tuberculosis
+16,0,0,4,0,2,2,Tuberculosis
+34,0,2,2,3,5,3,Migraine
+66,1,0,1,0,3,3,Malaria
+99,1,5,5,4,1,3,COVID-19
+40,0,3,5,0,1,0,Hypertension
+28,0,1,3,1,1,2,Migraine
+47,0,1,0,5,4,0,Heart Disease
+39,1,2,4,0,4,1,Migraine
+70,1,1,5,5,5,3,Flu
+73,1,5,5,0,3,2,Flu
+20,1,5,5,4,3,3,Asthma
+1,1,5,1,3,3,0,Malaria
+72,1,1,0,3,4,0,Migraine
+87,0,1,5,5,5,0,COVID-19
+63,0,5,2,4,3,3,Malaria
+67,1,1,4,4,0,2,COVID-19
+4,0,1,3,4,2,2,Pneumonia
+58,1,3,2,1,1,1,Malaria
+25,0,0,4,2,1,3,Diabetes
+47,1,4,1,0,0,1,Diabetes
+38,0,1,0,4,3,5,Asthma
+15,0,4,0,4,5,1,Malaria
+63,1,4,4,4,5,1,Diabetes
+21,1,3,2,3,4,1,Diabetes
+99,0,1,3,4,3,0,Heart Disease
+57,0,5,1,0,5,5,Flu
+53,1,4,4,4,3,1,Hypertension
+46,0,1,1,0,1,2,Tuberculosis
+14,1,2,0,1,1,1,Migraine
+76,1,5,5,2,4,0,Diabetes
+17,0,2,5,3,1,4,Tuberculosis
+39,1,2,3,0,3,5,Tuberculosis
+9,0,4,1,5,0,4,Malaria
+99,0,2,4,1,4,4,Malaria
+77,1,3,3,2,0,5,Migraine
+79,0,3,2,2,3,3,Flu
+82,1,4,5,2,4,2,Pneumonia
+97,1,1,4,0,0,0,Tuberculosis
+6,1,0,1,1,4,5,Pneumonia
+91,0,1,3,4,3,4,Flu
+23,1,1,4,5,5,0,Asthma
+59,0,1,3,1,4,0,Hypertension
+91,1,1,3,1,5,3,Migraine
+98,1,5,3,1,3,4,Heart Disease
+46,1,0,1,0,4,1,Flu
+38,0,5,4,5,4,0,Diabetes
+14,0,2,0,0,5,4,Pneumonia
+72,1,1,0,5,1,0,Asthma
+62,1,3,1,5,5,3,COVID-19
+35,0,4,1,0,5,3,Pneumonia
+19,0,4,5,5,5,1,Tuberculosis
+30,0,5,3,1,3,3,Pneumonia
+78,1,5,4,0,2,4,Heart Disease
+84,0,3,4,5,5,5,Flu
+25,1,1,2,2,4,3,Diabetes
+40,0,0,2,0,0,5,Diabetes
+88,1,2,0,3,1,1,COVID-19
+14,1,4,2,0,5,2,Malaria
+26,1,2,2,0,5,0,Tuberculosis
+87,0,0,0,0,1,0,Flu
+22,0,5,5,5,5,4,Pneumonia
+48,0,4,0,0,4,1,COVID-19
+83,1,2,2,3,2,1,Hypertension
+51,1,5,4,4,5,1,Heart Disease
+3,0,0,2,0,1,0,Malaria
+42,1,2,3,2,5,3,Malaria
+19,1,1,3,3,3,0,Asthma
+73,1,5,3,4,4,0,Asthma
+28,0,0,5,5,4,0,Hypertension
+84,1,2,1,0,2,3,COVID-19
+45,0,1,3,4,3,2,Migraine
+71,0,1,4,2,3,4,Heart Disease
+78,0,0,5,3,2,2,COVID-19
+63,0,3,1,3,0,2,Tuberculosis
+73,0,4,1,5,5,0,Heart Disease
+19,1,0,3,5,3,2,Malaria
+47,0,1,2,5,0,0,Malaria
+14,0,1,0,4,0,0,Tuberculosis
+38,0,0,2,0,4,4,Migraine
+53,1,3,2,1,5,1,Hypertension
+61,1,4,1,3,4,0,Asthma
+36,1,2,1,1,1,2,Malaria
+40,1,0,5,3,4,4,Migraine
+81,0,4,5,5,3,5,Flu
+30,0,4,1,0,3,5,Heart Disease
+9,1,5,4,0,5,5,Hypertension
+64,1,1,4,3,0,2,COVID-19
+33,1,2,0,4,3,1,Migraine
+52,1,0,1,5,4,3,Hypertension
+89,0,1,3,0,4,1,Migraine
+14,1,5,5,0,5,4,Flu
+75,1,5,1,2,4,1,Diabetes
+53,1,1,4,0,2,5,Tuberculosis
+99,1,3,1,2,5,1,Diabetes
+59,1,4,4,0,5,4,Hypertension
+78,1,0,1,0,3,4,Diabetes
+94,1,0,3,4,5,5,Migraine
+41,0,0,0,4,1,2,Migraine
+68,0,1,3,5,3,0,Diabetes
+68,0,3,4,0,3,3,Tuberculosis
+92,0,2,5,5,2,3,Tuberculosis
+8,0,5,5,5,3,5,Flu
+2,0,1,2,5,0,3,Migraine
+86,1,2,3,5,4,1,Hypertension
+41,1,5,1,3,4,4,Heart Disease
+55,0,5,0,3,5,4,Tuberculosis
+16,1,3,1,0,2,5,Pneumonia
+93,0,4,1,3,4,4,Tuberculosis
+62,1,0,3,0,0,0,Flu
+48,1,2,0,4,2,4,Heart Disease
+30,1,1,2,1,1,4,Asthma
+12,1,2,1,2,4,1,Pneumonia
+35,1,4,0,3,3,2,Tuberculosis
+11,1,0,2,3,0,3,Diabetes
+64,0,2,1,4,0,1,Migraine
+50,0,4,0,3,4,1,Pneumonia
+85,1,1,3,0,5,1,Tuberculosis
+21,0,3,5,0,1,3,Migraine
+69,1,5,5,1,3,5,Hypertension
+48,0,1,1,1,1,1,Heart Disease
+20,1,0,1,1,1,2,Malaria
+67,0,5,0,0,4,5,Flu
+44,1,1,5,5,3,4,Asthma
+33,0,1,1,5,4,2,Diabetes
+73,1,1,2,1,4,5,Pneumonia
+61,0,1,1,1,5,4,Asthma
+9,1,5,5,0,0,4,Flu
+68,1,0,4,4,5,1,Asthma
+35,1,4,5,3,5,1,Heart Disease
+81,0,2,2,2,4,3,Hypertension
+98,0,3,0,5,5,0,Diabetes
+88,0,2,2,5,5,2,Pneumonia
+96,1,2,4,0,2,3,Heart Disease
+65,0,3,4,0,3,3,Heart Disease
+8,1,5,1,2,0,2,Migraine
+45,0,0,1,2,3,5,Hypertension
+87,0,3,5,1,0,2,Malaria
+47,0,0,3,2,2,4,Hypertension
+40,0,5,2,3,4,0,Hypertension
+76,1,2,5,3,0,5,Heart Disease
+54,0,0,3,5,0,1,Malaria
+76,0,5,5,3,0,0,Tuberculosis
+46,1,5,4,3,2,0,Migraine
+47,1,4,1,3,3,1,Hypertension
+15,0,3,1,1,2,0,Tuberculosis
+19,0,4,5,5,0,5,Malaria
+26,1,2,1,0,5,5,Hypertension
+52,1,3,0,5,0,5,Diabetes
+93,1,2,5,5,5,3,Tuberculosis
+22,0,4,4,5,4,3,Tuberculosis
+21,0,5,5,2,2,5,Diabetes
+51,0,2,5,0,5,1,Tuberculosis
+38,1,3,1,2,2,1,Asthma
+20,1,3,4,1,1,2,Hypertension
+29,1,2,5,1,3,2,Pneumonia
+51,0,3,1,4,1,5,Tuberculosis
+4,1,5,2,4,5,0,Flu
+55,0,5,4,1,1,0,COVID-19
+71,1,3,3,1,3,1,Malaria
+92,0,2,0,2,5,0,Flu
+28,0,4,3,1,4,4,Diabetes
+4,1,3,4,0,4,3,Hypertension
+22,0,3,5,2,3,0,Hypertension
+76,1,3,1,1,3,0,Flu
+45,0,3,4,2,5,2,Tuberculosis
+67,1,2,0,2,2,4,Malaria
+86,1,4,4,3,5,0,Hypertension
+66,0,4,1,4,2,3,Tuberculosis
+88,1,0,3,2,2,0,Diabetes
+34,0,3,2,5,2,1,Asthma
+91,1,3,3,2,5,4,Migraine
+55,1,0,1,5,0,0,Malaria
+1,1,4,1,3,0,4,Diabetes
+72,1,1,0,1,4,0,Heart Disease
+87,0,5,4,2,0,3,Hypertension
+38,1,1,4,3,0,3,COVID-19
+6,1,4,3,0,2,4,Tuberculosis
+86,0,3,2,3,2,5,Heart Disease
+25,0,1,2,4,3,2,Flu
+82,0,2,0,4,2,2,Hypertension
+17,0,2,1,1,5,1,Asthma
+61,0,0,0,5,3,5,Heart Disease
+12,0,4,4,1,3,2,Pneumonia
+6,1,4,5,5,0,4,Tuberculosis
+90,0,1,5,5,2,2,Heart Disease
+27,1,3,5,5,0,1,Asthma
+8,0,4,1,5,2,0,Malaria
+83,1,1,0,4,0,2,Flu
+65,1,1,3,4,0,4,Migraine
+57,1,5,4,2,0,4,Diabetes
+93,0,5,5,4,5,1,Tuberculosis
+99,0,4,2,1,4,1,COVID-19
+40,0,1,0,4,0,3,Pneumonia
+14,0,0,4,1,1,3,Heart Disease
+35,1,0,4,0,1,3,Tuberculosis
+48,0,5,2,4,1,0,Malaria
+84,1,4,2,1,5,4,Flu
+56,1,3,2,5,3,3,Asthma
+49,0,0,5,3,0,4,Migraine
+13,0,0,5,5,1,1,Tuberculosis
+61,0,5,0,2,5,0,COVID-19
+49,1,5,2,1,3,1,Diabetes
+46,0,4,3,5,1,4,Diabetes
+62,1,5,4,4,2,5,Migraine
+8,0,2,2,4,4,5,Pneumonia
+43,1,1,4,0,0,3,COVID-19
+20,0,0,1,3,4,5,Malaria
+97,0,2,1,1,4,1,COVID-19
+90,1,3,2,5,2,5,Malaria
+39,0,2,4,3,2,2,Pneumonia
+85,0,4,1,0,2,0,Malaria
+49,0,3,2,2,3,4,Flu
+64,0,3,4,3,1,3,COVID-19
+62,0,5,2,0,0,1,Asthma
+54,0,2,5,1,2,0,Asthma
+9,0,4,4,2,5,3,Heart Disease
+88,1,0,1,4,0,1,COVID-19
+37,1,5,2,0,0,5,Pneumonia
+49,0,2,1,4,0,4,COVID-19
+41,0,0,2,2,2,2,Diabetes
+17,0,2,0,0,2,2,Flu
+88,1,5,1,0,1,5,Diabetes
+21,1,0,1,2,2,4,Tuberculosis
+51,0,5,3,1,2,0,Hypertension
+59,1,2,5,0,0,4,Heart Disease
+39,0,3,1,2,1,5,Migraine
+55,0,1,4,3,4,1,Tuberculosis
+41,0,3,2,4,2,0,Tuberculosis
+39,0,5,0,0,5,2,COVID-19
+13,1,5,4,3,2,5,Tuberculosis
+64,1,5,4,0,4,1,Hypertension
+11,0,0,4,1,0,5,Tuberculosis
+19,1,4,4,2,1,3,COVID-19
+11,1,5,0,0,0,3,Diabetes
+77,0,3,3,2,3,3,Tuberculosis
+46,1,1,5,5,2,2,Migraine
+45,0,5,1,0,5,4,Flu
+1,0,5,4,1,3,0,Flu
+40,0,5,1,1,2,2,Malaria
+19,0,0,1,3,3,1,Heart Disease
+76,1,5,4,1,4,1,Hypertension
+72,0,3,3,2,2,3,Asthma
+72,1,2,1,5,5,0,Hypertension
+61,0,4,2,1,2,3,Malaria
+12,0,5,1,0,3,1,Migraine
+61,1,0,5,1,1,1,Diabetes
+33,0,3,4,5,3,4,Asthma
+45,1,5,0,2,2,4,COVID-19
+90,1,0,1,0,2,4,COVID-19
+92,0,2,3,3,1,3,Heart Disease
+69,0,1,2,3,0,5,Asthma
+8,0,5,2,3,1,0,COVID-19
+25,0,3,0,0,0,4,Heart Disease
+91,0,0,5,3,5,2,Migraine
+46,0,0,0,1,2,4,Asthma
+87,1,5,5,0,4,3,Migraine
+30,1,0,1,0,4,0,COVID-19
+47,0,1,4,0,3,4,Flu
+87,1,0,3,4,1,0,Hypertension
+49,1,4,2,2,1,2,Hypertension
+47,0,4,0,4,4,1,Migraine
+84,0,0,3,4,0,0,Flu
+82,1,5,5,4,1,5,Heart Disease
+18,0,4,4,2,0,4,Diabetes
+66,1,3,2,4,0,3,Diabetes
+68,0,4,2,3,0,5,Pneumonia
+94,1,0,5,0,0,5,Malaria
+33,1,5,4,0,3,3,Tuberculosis
+36,1,2,2,1,3,3,Pneumonia
+82,1,5,4,5,4,3,Diabetes
+19,0,5,2,3,3,5,Flu
+28,0,5,1,2,5,0,Hypertension
+40,1,3,5,5,1,3,Hypertension
+84,1,1,4,0,5,1,Diabetes
+97,0,0,3,4,3,5,Diabetes
+76,0,1,1,1,1,5,Malaria
+15,1,2,3,1,1,5,Diabetes
+41,1,1,5,0,0,2,Migraine
+39,1,0,2,3,4,0,COVID-19
+2,1,0,3,5,0,0,Tuberculosis
+63,1,2,1,1,0,3,Heart Disease
+29,0,0,4,0,5,5,Tuberculosis
+74,1,2,0,3,3,5,Tuberculosis
+66,0,2,3,0,5,3,Pneumonia
+51,0,0,0,0,3,0,Diabetes
+75,0,4,5,3,5,3,Migraine
+77,1,2,3,3,1,3,Pneumonia
+10,0,0,3,3,3,3,Pneumonia
+14,0,4,4,0,3,3,COVID-19
+82,0,2,2,1,5,3,COVID-19
+51,0,4,1,2,2,4,Flu
+73,1,3,1,2,1,4,COVID-19
+39,1,5,1,0,1,5,Migraine
+28,0,3,5,0,2,5,Flu
+3,0,4,2,1,5,4,Asthma
+84,1,2,0,3,5,0,Malaria
+70,1,0,1,0,1,2,Asthma
+27,1,1,0,4,5,0,Tuberculosis
+2,0,0,2,3,4,5,Pneumonia
+93,1,1,5,0,4,4,Migraine
+38,0,1,2,4,2,0,Flu
+3,0,2,4,5,3,2,Asthma
+16,1,4,1,1,4,3,Pneumonia
+94,0,0,5,4,5,1,Migraine
+40,1,4,4,0,2,4,Heart Disease
+2,0,3,1,2,4,4,Heart Disease
+81,1,2,2,0,0,2,Heart Disease
+41,0,2,2,2,2,3,Malaria
+12,0,3,3,1,1,3,COVID-19
+35,1,0,3,1,4,1,Malaria
+65,1,5,2,3,1,3,Malaria
+55,1,3,2,3,2,2,Migraine
+45,1,0,0,2,4,5,Migraine
+79,0,1,0,2,1,3,Tuberculosis
+90,1,2,4,1,3,5,Flu
+85,1,0,3,4,3,5,Hypertension
+62,0,4,3,2,0,2,Heart Disease
+49,1,4,2,2,5,4,Diabetes
+95,1,2,2,4,2,4,Pneumonia
+25,0,3,4,3,5,4,Hypertension
+23,1,5,5,3,5,0,Diabetes
+24,1,3,5,2,1,4,Migraine
+38,1,0,5,3,0,2,Hypertension
+28,1,3,3,3,2,1,Tuberculosis
+21,1,2,0,5,3,3,Heart Disease
+54,1,0,5,3,5,4,COVID-19
+18,0,1,1,1,1,0,Pneumonia
+36,1,3,4,0,5,5,Diabetes
+99,0,3,5,2,4,0,Heart Disease
+45,0,5,1,2,3,2,Tuberculosis
+73,0,0,5,1,5,1,COVID-19
+53,0,4,0,0,4,4,Pneumonia
+30,1,3,0,0,4,4,COVID-19
+60,1,2,5,1,1,0,Flu
+98,1,3,1,4,1,2,Tuberculosis
+32,0,5,4,4,4,0,Tuberculosis
+67,1,1,1,0,0,0,Pneumonia
+67,1,5,4,4,5,1,Heart Disease
+28,1,3,5,4,4,2,Heart Disease
+44,0,4,4,4,4,1,Asthma
+79,0,3,2,0,1,2,Heart Disease
+41,1,0,3,4,5,4,Heart Disease
+63,0,3,3,2,2,3,Flu
+23,0,4,0,5,3,5,COVID-19
+75,1,0,2,0,1,3,Flu
+48,0,2,3,1,5,2,Heart Disease
+32,0,0,5,4,5,3,Hypertension
+57,1,5,4,3,0,0,Flu
+33,0,1,4,0,3,4,Malaria
+24,0,5,1,1,1,5,Hypertension
+39,0,0,1,5,1,5,Diabetes
+34,0,2,4,2,2,5,Migraine
+56,0,3,5,1,0,4,Asthma
+28,0,0,4,4,0,3,Diabetes
+37,0,5,1,3,5,5,Migraine
+7,0,0,3,4,5,5,Flu
+68,1,0,0,1,1,2,Malaria
+37,1,0,1,0,2,0,Migraine
+56,1,2,5,3,1,2,Migraine
+65,1,4,3,3,4,3,Diabetes
+65,0,4,3,1,5,4,Heart Disease
+47,1,0,3,5,4,4,Asthma
+20,1,2,2,5,2,2,COVID-19
+19,0,2,2,4,1,1,Malaria
+29,0,0,3,1,5,2,Migraine
+74,0,5,5,3,2,1,Heart Disease
+60,0,5,4,1,1,2,COVID-19
+18,0,1,5,3,1,1,Malaria
+92,1,0,2,4,4,1,Heart Disease
+35,0,1,1,0,3,5,Heart Disease
+43,1,5,2,0,0,5,Pneumonia
+95,1,5,4,1,5,1,Tuberculosis
+91,0,0,0,3,0,1,Heart Disease
+11,1,1,2,0,2,0,COVID-19
+49,1,1,5,3,0,1,Asthma
+38,0,0,5,4,4,5,Tuberculosis
+64,1,1,3,1,3,1,Malaria
+69,1,3,3,3,5,4,Hypertension
+8,1,5,3,1,1,0,Flu
+34,0,4,0,3,1,1,Malaria
+48,0,2,4,5,4,5,Heart Disease
+56,0,1,1,5,5,5,COVID-19
+76,1,1,5,3,0,3,Migraine
+65,0,2,5,4,1,5,Diabetes
+31,1,1,4,1,0,0,Flu
+4,0,2,0,2,4,5,Malaria
+50,1,0,3,3,1,4,Pneumonia
+69,0,3,4,3,2,2,Diabetes
+30,0,3,1,5,3,4,Flu
+88,1,5,3,0,0,4,Asthma
+59,0,4,1,5,5,0,Migraine
+67,1,1,2,1,0,0,Pneumonia
+75,0,4,1,5,0,3,Flu
+45,0,0,3,2,0,5,Heart Disease
+4,1,3,2,4,4,3,Flu
+26,1,0,3,2,4,0,COVID-19
+27,1,0,5,4,5,5,COVID-19
+46,0,1,3,2,4,0,COVID-19
+64,1,0,2,5,5,0,Malaria
+91,0,3,1,2,5,2,Migraine
+51,1,4,5,5,4,4,Migraine
+50,1,3,0,5,1,3,Malaria
+6,1,1,0,1,4,3,Migraine
+59,1,3,0,5,1,1,COVID-19
+15,1,2,0,0,2,2,COVID-19
+30,1,4,4,2,4,0,Hypertension
+42,0,2,0,3,2,0,Flu
+37,1,2,2,3,4,2,Migraine
+42,0,5,0,3,2,5,Tuberculosis
+35,1,1,3,0,3,3,COVID-19
+87,1,0,0,5,2,0,Flu
+6,1,2,1,2,1,1,Diabetes
+68,0,3,2,4,0,3,Pneumonia
+18,0,0,2,4,5,4,Tuberculosis
+73,1,3,5,1,2,2,Tuberculosis
+29,0,3,4,0,0,3,Pneumonia
+77,1,0,3,2,3,4,Malaria
+59,1,0,2,5,3,1,Migraine
+47,0,3,1,3,1,5,Tuberculosis
+17,0,1,0,0,1,2,Diabetes
+96,0,4,2,0,2,5,Flu
+22,0,5,1,2,4,0,Malaria
+68,1,4,0,5,3,5,Heart Disease
+69,0,1,4,1,0,0,Heart Disease
+37,0,5,2,5,4,4,Pneumonia
+49,1,0,2,1,3,3,Flu
+13,0,5,1,1,2,1,Flu
+34,0,3,5,3,3,4,Heart Disease
+86,0,4,3,3,1,1,Tuberculosis
+53,0,5,4,2,0,5,Migraine
+87,1,3,3,5,0,1,Pneumonia
+51,1,1,2,1,1,5,Heart Disease
+3,0,5,3,2,4,1,Flu
+42,0,3,0,1,1,2,Malaria
+98,1,1,4,0,0,4,Diabetes
+32,0,0,3,4,2,2,Malaria
+51,0,1,0,4,4,3,Malaria
+85,0,1,1,1,5,3,Migraine
+46,0,4,3,2,3,0,Pneumonia
+21,0,3,4,3,5,0,Heart Disease
+44,0,5,0,5,2,0,COVID-19
+11,0,4,3,1,5,3,Flu
+68,0,2,1,1,4,1,Malaria
+1,0,1,3,5,0,5,Malaria
+92,1,2,0,3,0,1,Pneumonia
+63,1,4,3,1,2,4,Asthma
+24,1,3,4,0,5,3,Flu
+99,0,4,2,3,4,5,Diabetes
+13,0,3,0,0,3,5,COVID-19
+98,1,3,0,4,5,5,Heart Disease
+11,0,0,0,5,5,0,Hypertension
+51,1,1,0,3,3,5,Hypertension
+17,0,4,3,3,1,5,Flu
+99,1,3,4,2,2,3,Heart Disease
+82,1,4,1,2,4,1,Asthma
+86,1,4,4,5,2,1,Diabetes
+24,0,3,0,3,3,2,COVID-19
+19,1,5,5,4,4,2,Asthma
+37,0,2,3,1,0,4,COVID-19
+85,0,1,5,5,0,3,Hypertension
+8,0,1,3,5,4,2,Tuberculosis
+28,0,5,0,2,2,2,Hypertension
+5,0,0,3,4,2,3,Tuberculosis
+17,0,5,0,5,0,1,Heart Disease
+36,0,0,4,4,0,4,Flu
+19,1,0,2,5,3,4,Hypertension
+64,1,5,3,2,4,4,Pneumonia
+91,1,1,0,1,2,2,Asthma
+98,0,2,5,2,3,1,Pneumonia
+11,0,1,0,5,2,4,Heart Disease
+54,0,1,5,4,0,3,Malaria
+45,0,1,3,0,4,4,Pneumonia
+47,1,5,1,2,1,0,Heart Disease
+12,0,5,5,4,4,1,Malaria
+21,1,5,0,2,5,0,Tuberculosis
+11,0,1,3,5,1,1,Pneumonia
+92,1,2,0,4,3,5,Heart Disease
+5,0,0,1,1,1,3,Malaria
+81,1,4,2,4,1,5,Tuberculosis
+56,0,0,1,3,3,2,Heart Disease
+20,1,0,4,0,4,2,Heart Disease
+41,0,4,3,5,3,5,Tuberculosis
+46,1,1,1,4,5,1,Tuberculosis
+12,1,2,2,5,0,4,Heart Disease
+70,0,2,0,2,0,0,Migraine
+17,1,0,3,2,1,3,COVID-19
+19,0,4,5,4,3,4,Migraine
+26,0,3,1,3,3,2,Diabetes
+48,0,1,2,4,3,4,Hypertension
+52,1,0,1,1,5,5,COVID-19
+96,1,2,4,3,5,5,Asthma
+70,0,5,3,5,4,0,Pneumonia
+55,0,5,0,4,2,2,Hypertension
+75,1,4,2,5,2,1,Migraine
+33,1,4,1,0,2,3,Tuberculosis
+62,1,0,3,3,4,5,Heart Disease
+88,0,3,1,4,3,3,Migraine
+23,0,2,3,0,2,2,Asthma
+15,0,0,4,4,3,1,Diabetes
+27,0,3,1,1,1,5,Asthma
+75,0,4,4,2,2,0,Asthma
+64,1,5,5,5,1,3,Migraine
+81,0,1,5,4,4,2,Tuberculosis
+51,1,5,2,3,0,3,COVID-19
+53,1,2,4,4,5,1,Hypertension
+78,0,2,3,4,4,0,Tuberculosis
+91,1,5,2,4,4,1,Flu
+82,0,5,1,4,4,5,Migraine
+92,1,3,1,3,2,4,Pneumonia
+51,0,0,3,3,1,1,Asthma
+47,0,4,0,4,5,1,Pneumonia
+4,1,3,0,2,2,3,Hypertension
+7,0,1,1,4,0,1,Asthma
+35,1,5,3,5,5,2,Diabetes
+48,0,1,0,5,4,5,Diabetes
+73,0,1,4,3,3,3,Hypertension
+72,0,3,1,5,0,3,Asthma
+45,1,4,5,5,1,4,Malaria
+81,1,2,4,1,0,5,Flu
+81,0,0,3,4,2,2,Malaria
+97,1,2,5,4,3,5,COVID-19
+96,0,4,4,4,2,1,COVID-19
+72,1,2,0,4,5,4,Heart Disease
+19,1,5,0,0,4,2,COVID-19
+63,0,5,5,4,4,4,Tuberculosis
+38,0,3,2,3,0,5,Heart Disease
+67,0,1,1,3,4,0,Diabetes
+59,0,4,5,0,4,5,Tuberculosis
+69,0,4,3,4,5,1,Asthma
+13,1,2,1,2,1,4,Hypertension
+47,1,3,4,4,1,0,Hypertension
+61,0,2,3,3,2,1,Flu
+31,0,2,3,1,2,4,Diabetes
+80,0,4,0,5,1,4,Flu
+96,1,2,4,1,0,5,Malaria
+22,0,1,0,2,1,4,Migraine
+93,0,2,0,4,2,4,Diabetes
+86,1,1,2,0,3,3,Pneumonia
+43,1,4,0,4,4,4,COVID-19
+67,1,3,1,2,5,5,Heart Disease
+54,1,5,3,2,3,3,Malaria
+10,0,1,0,5,3,3,COVID-19
+42,1,3,5,2,4,0,Heart Disease
+64,1,3,1,1,1,1,Hypertension
+21,0,1,4,5,0,3,Tuberculosis
+80,0,4,3,4,3,2,Hypertension
+76,0,0,5,4,0,3,Malaria
+66,1,3,5,0,5,2,Hypertension
+41,0,3,4,2,5,0,Hypertension
+24,1,4,5,2,5,2,Hypertension
+35,1,4,1,3,2,0,Diabetes
+56,1,2,4,5,3,0,Malaria
+30,0,4,5,3,5,0,Flu
+57,1,3,4,5,2,2,Hypertension
+94,0,1,4,1,5,2,Hypertension
+47,0,0,0,5,1,0,Heart Disease
+35,0,2,0,4,3,0,Tuberculosis
+19,1,1,0,0,2,1,Hypertension
+8,1,0,5,5,5,0,Flu
+26,1,0,3,5,2,4,Flu
+71,0,0,1,5,5,1,Tuberculosis
+30,1,5,5,0,1,1,Tuberculosis
+7,1,1,0,2,0,1,Malaria
+67,1,2,4,0,5,4,Tuberculosis
+65,1,2,5,2,0,1,Pneumonia
+36,1,0,4,4,3,1,Malaria
+25,0,1,4,0,1,2,Asthma
+37,0,5,4,2,3,5,Hypertension
+1,0,0,2,4,0,2,Flu
+15,0,4,3,4,1,0,Asthma
+37,1,2,1,2,4,0,Hypertension
+13,0,3,1,2,1,3,Flu
+8,1,0,0,1,1,5,Flu
+5,0,4,2,4,4,4,Heart Disease
+60,0,2,5,2,2,2,Malaria
+73,0,5,5,4,2,0,Migraine
+1,1,1,1,0,2,4,Heart Disease
+36,1,2,3,3,0,1,Asthma
+35,0,1,4,3,1,4,COVID-19
+66,1,1,0,5,5,2,Malaria
+63,0,5,3,2,4,5,Tuberculosis
+23,0,5,1,2,5,3,COVID-19
+9,0,0,2,4,0,2,Asthma
+34,1,0,0,5,4,5,Hypertension
+46,0,2,1,2,5,0,Diabetes
+78,0,5,5,4,0,0,Migraine
+4,0,4,0,2,0,4,Heart Disease
+30,1,2,1,4,0,2,Hypertension
+95,0,3,5,2,4,0,Asthma
+75,1,1,5,1,5,1,Malaria
+99,0,1,4,4,5,1,Asthma
+72,1,0,2,1,3,3,COVID-19
+3,0,4,4,1,0,4,Diabetes
+14,0,5,1,1,2,0,COVID-19
+60,1,5,3,1,1,3,Malaria
+77,1,0,4,0,3,1,Flu
+45,0,3,3,5,3,3,COVID-19
+96,1,2,5,3,4,3,Pneumonia
+34,0,2,1,0,3,0,Flu
+45,0,4,2,2,5,0,Tuberculosis
+61,0,0,3,2,4,0,Hypertension
+83,1,0,1,5,4,4,Malaria
+16,0,3,3,3,2,3,Asthma
+66,1,2,4,3,0,3,Tuberculosis
+40,0,0,1,3,3,4,COVID-19
+17,1,5,4,1,0,1,Hypertension
+34,1,4,0,0,0,2,Flu
+16,0,2,1,2,0,1,Pneumonia
+60,1,3,3,0,4,4,Flu
+66,0,4,0,0,0,3,Heart Disease
+66,0,1,4,0,3,3,Malaria
+90,0,5,4,3,4,0,Flu
+13,0,3,3,5,3,0,Diabetes
+56,0,4,0,5,4,3,Malaria
+31,1,0,5,3,1,3,Heart Disease
+34,0,1,2,2,1,5,Malaria
+39,1,3,3,2,1,0,Malaria
+67,1,0,4,2,1,0,Pneumonia
+8,0,5,1,5,4,1,Pneumonia
+87,1,1,0,5,0,3,Asthma
+78,0,2,5,0,2,3,Flu
+55,1,0,2,3,5,4,COVID-19
+27,1,4,1,1,2,1,COVID-19
+93,1,3,0,0,1,2,Pneumonia
+53,0,1,5,4,0,2,Hypertension
+39,1,0,3,5,3,2,Hypertension
+65,0,2,5,0,0,5,Hypertension
+17,1,3,3,3,3,0,Hypertension
+30,1,3,0,4,2,2,Tuberculosis
+53,1,0,5,0,0,4,COVID-19
+13,1,2,2,3,0,0,Hypertension
+21,0,5,5,3,5,0,Heart Disease
+19,0,5,0,5,2,2,COVID-19
+53,1,1,1,1,0,0,Malaria
+19,1,0,1,0,3,1,Flu
+57,0,1,5,3,0,1,Malaria
+25,0,5,5,2,3,2,COVID-19
+86,0,3,3,3,1,4,Asthma
+31,0,1,0,1,0,0,Diabetes
+81,1,2,3,3,3,3,Pneumonia
+55,1,4,2,5,2,2,COVID-19
+23,0,5,1,0,1,5,Migraine
+32,0,5,4,5,0,0,Hypertension
